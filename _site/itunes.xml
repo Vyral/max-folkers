@@ -7,7 +7,7 @@
     <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Max Folkers Real Estate Team - your professional San Diego Real Estate Agents.</description>
     <language>en</language>
     <managingEditor>Max Folkers</managingEditor>
-    <lastBuildDate>2019-01-18 10:36:37 -0600</lastBuildDate>
+    <lastBuildDate>2019-01-18 12:04:22 -0600</lastBuildDate>
     <media:copyright>Max Folkers</media:copyright>
     <media:thumbnail url="http://localhost:4000/img/podcast.jpg"/>
     <media:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in San Diego, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</media:keywords>
@@ -25,92 +25,520 @@
       <itunes:category text="Education"/>
     
       <item>
-        <title>this is a test post</title>
-        <link>http://localhost:4000/this-is-a-test-post-copy-2.html</link>
+        <title>Have a Great Holiday Season This Year!</title>
+        <link>http://localhost:4000/have-great-holiday-season-this-year.html</link>
         
-          <category>Market Update</category>
-        
-          <category>Real Estate</category>
-        
-          <category>Home Seller Tips</category>
+          <category>Client Appreciation</category>
         
         <author>Max Folkers</author>
-        <pubDate>2018-05-10 00:00:00 -0500</pubDate>
+        <pubDate>2018-12-17 13:42:00 -0600</pubDate>
         <guid></guid>
         <description>
 
-Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid. Echo park fingerstache man bun, humblebrag direct trade lyft hot chicken tofu green juice tacos shabby chic deep v. Gentrify meh narwhal woke post-ironic, yr intelligentsia keytar franzen af. Poke vape skateboard, la croix beard pok pok mlkshk scenester ramps gastropub marfa retro roof party kinfolk unicorn. Lomo keffiyeh gochujang slow-carb kitsch celiac. Succulents asymmetrical franzen intelligentsia tofu.
 
-Bushwick marfa wayfarers heirloom pork belly. Tumblr ramps roof party, church-key portland tbh viral letterpress. Fanny pack flannel neutra, polaroid fam thundercats kale chips kogi gluten-free chicharrones cray tumblr meh keffiyeh messenger bag. Church-key vegan mixtape, ramps DIY fixie PBR&amp;B keffiyeh pinterest pop-up offal. Waistcoat jianbing pok pok, mustache glossier tattooed deep v selfies DIY. Beard fingerstache cray XOXO, iPhone readymade forage offal. Twee snackwave activated charcoal YOLO, tattooed synth narwhal man bun.
+Looking to sell your San Diego home? Get a free home value report
+Looking to buy a San Diego home? Click here for full MLS access
 
-Celiac copper mug iceland, snackwave bushwick tbh hell of occupy tilde tousled. Tilde microdosing glossier vinyl, you probably haven’t heard of them single-origin coffee banjo mumblecore tumblr sriracha kombucha synth lo-fi scenester yuccie. Dreamcatcher XOXO gochujang, aesthetic offal synth fap. Taxidermy stumptown normcore quinoa deep v. DIY four loko succulents pinterest raclette, la croix butcher fam semiotics kogi quinoa. Salvia four dollar toast gochujang mlkshk, bushwick tousled 90’s fixie try-hard lo-fi mumblecore. Authentic kitsch listicle man bun.
 
-“This is an example of a pull quote”
-
-Actually trust fund ugh banjo, affogato shabby chic single-origin coffee copper mug live-edge banh mi put a bird on it. Tote bag stumptown banjo typewriter. Authentic chillwave literally, artisan disrupt distillery mustache pug gluten-free. Direct trade echo park tbh meditation YOLO kinfolk. 3 wolf moon typewriter vape listicle, ennui pug kale chips tilde marfa. PBR&amp;B photo booth helvetica gluten-free. Fashion axe normcore hammock yuccie blog dreamcatcher.
-
-Oh. You need a little dummy text for your mockup? How quaint.I bet you’re still using Bootstrap too…
+Today’s topic has nothing to do with real estate. Instead, I wanted to take a moment to wish you a happy holiday season. As I reflect back on the year we’ve had together, I want to thank you for helping make 2018 an incredible year for our real estate team. While we look forward to finishing a great year, we can’t wait to help you with your real estate needs in the new year. Until then, Happy Holidays and Happy New Year!
 </description>
         <enclosure url="" length="" type="video/mp4"/>
         <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid.</itunes:subtitle>
+        <itunes:subtitle>As I reflect back on the year we’ve had together, I want to thank you for helping make 2018 an incredible year for our real estate team.</itunes:subtitle>
         <itunes:author>Max Folkers</itunes:author>
-        <itunes:summary>Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid.</itunes:summary>
+        <itunes:summary>As I reflect back on the year we’ve had together, I want to thank you for helping make 2018 an incredible year for our real estate team.</itunes:summary>
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in San Diego, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
       <item>
-        <title>A Fox in Space</title>
-        <link>http://localhost:4000/a-fox-in-space.html</link>
+        <title>Why Bay Park Is Booming in the Real Estate World Right Now</title>
+        <link>http://localhost:4000/why-bay-park-is-booming-in-real-estate.html</link>
         
-          <category>Market Update</category>
-        
-          <category>Real Estate</category>
-        
-          <category>Home Seller Tips</category>
+          <category>San Diego Real Estate</category>
         
         <author>Max Folkers</author>
-        <pubDate>2018-05-07 00:00:00 -0500</pubDate>
+        <pubDate>2018-11-30 11:31:00 -0600</pubDate>
         <guid></guid>
         <description>
 
-Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid. Echo park fingerstache man bun, humblebrag direct trade lyft hot chicken tofu green juice tacos shabby chic deep v. Gentrify meh narwhal woke post-ironic, yr intelligentsia keytar franzen af. Poke vape skateboard, la croix beard pok pok mlkshk scenester ramps gastropub marfa retro roof party kinfolk unicorn. Lomo keffiyeh gochujang slow-carb kitsch celiac. Succulents asymmetrical franzen intelligentsia tofu.
-
-Bushwick marfa wayfarers heirloom pork belly. Tumblr ramps roof party, church-key portland tbh viral letterpress. Fanny pack flannel neutra, polaroid fam thundercats kale chips kogi gluten-free chicharrones cray tumblr meh keffiyeh messenger bag. Church-key vegan mixtape, ramps DIY fixie PBR&amp;B keffiyeh pinterest pop-up offal. Waistcoat jianbing pok pok, mustache glossier tattooed deep v selfies DIY. Beard fingerstache cray XOXO, iPhone readymade forage offal. Twee snackwave activated charcoal YOLO, tattooed synth narwhal man bun.
+Bay Park is booming right now, and for my latest appearance on “The American Dream,” host Sarah Pilla and I visited one of the best restaurants in the area, Luce, to talk about why.
 
 
-  list item
-  list item
-  list item
-  list item
-  list item
+Looking to sell your San Diego home? Get a free home value report
+Looking to buy a San Diego home? Click here for full MLS access
 
 
+First, though, we talked with Luce’s owner Sal D’Amato about his restaurant. I’ve lived in this area for 15 years, and I’m excited to see another great restaurant open. Our office is located right across the street from Luce, so I’m there all the time.
 
-  list item
-  list item
-  list item
-  list item
-  list item
+Sal’s father was a restauranter, so he grew up in the business. He and his brother opened Luce six years ago, and they’re still going strong. As a gastropub, they serve more than just bar food. Their menu changes seasonally, but they’re best known for their burgers.
 
+Their daily happy hour runs from 3 p.m. to 5 p.m. for food and from 3 p.m. to 6 p.m. for drinks.
+Aside from their weekly lunch and dinner schedule, they also serve brunch on the weekends. At the moment, they’re converting a former adjoining parking lot into a nice patio area with a firepit and its own bar, and it should be open by September.
 
-Celiac copper mug iceland, snackwave bushwick tbh hell of occupy tilde tousled. Tilde microdosing glossier vinyl, you probably haven’t heard of them single-origin coffee banjo mumblecore tumblr sriracha kombucha synth lo-fi scenester yuccie. Dreamcatcher XOXO gochujang, aesthetic offal synth fap. Taxidermy stumptown normcore quinoa deep v. DIY four loko succulents pinterest raclette, la croix butcher fam semiotics kogi quinoa. Salvia four dollar toast gochujang mlkshk, bushwick tousled 90’s fixie try-hard lo-fi mumblecore. Authentic kitsch listicle man bun.
+Moving on to our main topic, Bay Park has really hit the map lately in the real estate industry. As one of the original master-planned communities of San Diego, its development dates all the way back to 1950s. Though the area has seen a lot of turnover, there’re still a lot of original residents living here along with the new families settling in.
 
-“This is an example of a pull quote”
+“Relative to the prices we’re seeing in areas like La Jolla, Point Loma, or Pacific Beach, you can find a lot of great deals here.”
 
-Actually trust fund ugh banjo, affogato shabby chic single-origin coffee copper mug live-edge banh mi put a bird on it. Tote bag stumptown banjo typewriter. Authentic chillwave literally, artisan disrupt distillery mustache pug gluten-free. Direct trade echo park tbh meditation YOLO kinfolk. 3 wolf moon typewriter vape listicle, ennui pug kale chips tilde marfa. PBR&amp;B photo booth helvetica gluten-free. Fashion axe normcore hammock yuccie blog dreamcatcher.
+One of the main benefits of Bay Park is its walkability. You can find decent-sized houses on the market that have a water view and are within walking distance of many restaurants, bars, coffee shops, etc. You’re also close enough to the Bay that you can ride your bike to get there if you like. Relative to the prices we’re seeing in areas like La Jolla, Point Loma, or Pacific Beach, you can find a lot of great deals here.
 
-Oh. You need a little dummy text for your mockup? How quaint.I bet you’re still using Bootstrap too…
+With the new trolley stops slated to open here in a few years, Bay Park is drawing even more attention, and there will be even more things to see and do in the future.
+
+If you’re interested in checking out the available homes in this area, don’t hesitate to give me a call. If you have any other real estate questions, feel free to reach out to me as well. I’d love to help you.
 </description>
         <enclosure url="" length="" type="video/mp4"/>
         <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid.</itunes:subtitle>
+        <itunes:subtitle>
+
+Bay Park is booming right now, and for my latest appearance on “The American Dream,” host Sarah Pilla and I visited one of the best restaurants in the area, Luce, to talk about why.
+
+</itunes:subtitle>
         <itunes:author>Max Folkers</itunes:author>
-        <itunes:summary>Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid.</itunes:summary>
+        <itunes:summary>
+
+Bay Park is booming right now, and for my latest appearance on “The American Dream,” host Sarah Pilla and I visited one of the best restaurants in the area, Luce, to talk about why.
+
+</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in San Diego, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>How Has Our Market Changed Since Last Year?</title>
+        <link>http://localhost:4000/how-has-our-market-changed-since-last.html</link>
+        
+          <category>San Diego Real Estate Market Update</category>
+        
+        <author>Max Folkers</author>
+        <pubDate>2018-11-16 10:25:00 -0600</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Max+Folkers/Videos/2018/September+Market+Update+-+San+Diego+Real+Estate+Agent.mp4</guid>
+        <description>
+
+With the end of the year well in sight, it’s time to reflect on some recent developments in our housing market.
+
+
+Looking to sell your San Diego home? Get a free home value report
+Looking to buy a San Diego home? Click here for full MLS access
+
+
+Though we’re more than halfway through November, the September market numbers have only just been released, and so we’ll be taking a look at those today. There’s always a little bit of a lag in when market statistics come out, but the figures we’ll discuss in this update still have a significant bearing on what’s happening now.
+
+First, the number of home sales has dropped by 17.5% year over year—constituting the lowest level we’ve seen in years.
+
+Since the peak of $583,000, median home prices have gone down as well, decreasing to $575,000. But fear not: The median home price is still up 4% year over year.
+
+Another notable change is the fact that homes are sitting on the market for longer than they have been in the recent past. There are 38% more active homes right now in San Diego County than there were in September of 2017.
+
+And with this uptick in inventory, 26.4% of available homes have undergone price reductions.
+
+“The key to succeeding in today’s market, regardless of your real estate goals, is to partner with a professional agent who can guide you through current conditions.”
+
+Why is all of this happening? One major contributing factor is the increase in interest rates, which are up 1% since last year. They’re now at the highest level they have been at the past seven years, and they’re expected to continue going up. With that said, interest rates are still low from a historical perspective.
+
+If you’re thinking of buying or selling, realize that change equals opportunity. As we move away from what was a complete seller’s market, buyers now have a greater chance of success. The shift toward a more balanced market doesn’t mean sellers are without options, though. Sellers can still succeed—it just may not happen as quickly. And that’s okay. Longer wait times are actually a sign of a healthy market.
+
+Ultimately, the key to succeeding in today’s market, regardless of your real estate goals, is to partner with a professional agent who can guide you through current conditions.
+
+If you have any other questions or would like more information, feel free to give us a call or send us an email. We look forward to hearing from you soon.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Max+Folkers/Videos/2018/September+Market+Update+-+San+Diego+Real+Estate+Agent.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Max+Folkers/Videos/2018/September+Market+Update+-+San+Diego+Real+Estate+Agent.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>
+
+With the end of the year well in sight, it’s time to reflect on some recent developments in our housing market.
+
+</itunes:subtitle>
+        <itunes:author>Max Folkers</itunes:author>
+        <itunes:summary>
+
+With the end of the year well in sight, it’s time to reflect on some recent developments in our housing market.
+
+</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in San Diego, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Have You Checked Out the New Listing at 3855 Baker St. Yet?</title>
+        <link>http://localhost:4000/have-you-checked-out-new-listing-at.html</link>
+        
+          <category>List It Live</category>
+        
+          <category>San Diego Real Estate</category>
+        
+        <author>Max Folkers</author>
+        <pubDate>2018-11-02 14:31:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Max+Folkers/Videos/2018/New+Property+Available+in+Bay+Park+-+San+Diego+Real+Estate+Agent.mp4</guid>
+        <description>
+
+Bay Park is home and I have another great property!  I recently listed 3855 Baker Street and I’m excited to show you!
+
+
+Looking to sell your San Diego home? Get a free home value report
+Looking to buy a San Diego home? Click here for full MLS access
+
+
+Bay Park is one of the hottest neighborhoods in San Diego right now, and what’s unique about this property is it’s a part of the first wave of homes with intentionally built accessory dwelling units. We’re actually starting to see more and more multi-generational families take an interest in these types of properties because they either want to take advantage of the rental income or they want to keep their family close.
+
+“The owners spared no expense in renovating everything.”
+
+This property is listed at just under $1.3 million, and it features a 4-bedroom, 2.5-bathroom main house, a 1-bedroom, 1-bathroom attached granny flat, a detached two-car garage, and a rooftop deck with a view of the water. As you can see in the video above, the owners spared no expense in renovating everything. It has top-end appliances, an open floor plan, and plenty of space.
+
+This part of Bay Park doesn’t get a lot of traffic noise, and you’d be within walking distance of the nearest school. We’ve had some people already take an interest in this property, but so far we haven’t received any offers, so there’s still time for you to check it out.
+
+If you’d like to schedule a tour of this property for yourself or if you have any questions about it, don’t hesitate to give me a call or send me an email. I look forward to hearing from you soon.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Max+Folkers/Videos/2018/New+Property+Available+in+Bay+Park+-+San+Diego+Real+Estate+Agent.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Max+Folkers/Videos/2018/New+Property+Available+in+Bay+Park+-+San+Diego+Real+Estate+Agent.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>
+
+Bay Park is home and I have another great property!  I recently listed 3855 Baker Street and I’m excited to show you!
+
+</itunes:subtitle>
+        <itunes:author>Max Folkers</itunes:author>
+        <itunes:summary>
+
+Bay Park is home and I have another great property!  I recently listed 3855 Baker Street and I’m excited to show you!
+
+</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in San Diego, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>An Exciting Item to Appear on the Midterm Election Ballot</title>
+        <link>http://localhost:4000/an-exciting-item-to-appear-on-midterm.html</link>
+        
+          <category>San Diego Real Estate Market Update</category>
+        
+        <author>Max Folkers</author>
+        <pubDate>2018-10-16 16:14:00 -0500</pubDate>
+        <guid></guid>
+        <description>
+
+I was recently a guest on the talk show, “The American Dream,” where I spoke to host Amy Scruggs about a few key issues affecting the San Diego real estate market. Today I want to fill you in on the discussion so that you can stay in the know.
+
+
+Looking to sell your San Diego home? Get a free home value report
+Looking to buy a San Diego home? Click here for full MLS access
+
+
+Midterm elections are coming up—let’s talk about property taxes.
+
+There’s something interesting coming up on the ballot called Prop 5. This proposition specifically deals with sellers over the age of 55.
+
+Many are familiar with Prop 13, which preserves people’s property tax bases at 1% of what they purchased the property for.
+
+Older clients might also be familiar with Props 60 and 90, which allow them to transfer their tax bases when they sell a house. For example, a client of mine bought their house on Scripps Ranch about 25 years ago. They’ve since retired and want to get back to the beach. The house they’re going to sell was purchased for $500,000—25 years later, they’ll probably be able to sell it for about $1 million. To get back to a single-family home on the beach, $1 million won’t cut it, so they’ve got a couple tough choices to make: They can either find something for less than $1 million and keep that $500,000 tax base, or they can find their dream home, say, for around $1.2 million. In that second scenario, their tax base is $1.2 million. As someone who is retired, possibly on a fixed incoime, that’s a huge hit.
+
+Pitched by the California Association of Realtors, the exciting thing about Prop 5 coming up in the November elections is that it will change the process of transferring your tax base. Instead of transferring your tax base once, as with Props 60 and 90, you’ll be able to transfer it several times and even to a property that’s more expensive than the one sold.
+
+There are some aspects to the calculations that will adjust it up a bit, but you won’t take nearly the hit you would have on a newly assessed property of $1.2 million. It’s a game-changer.
+
+This is great advice that can really help people know how to navigate the process and give them some hope and opportunity.
+
+It absolutely could do a lot for San Diego, where inventory is very low. If passed, Prop 5 should really open up a lot of inventory, since there are a lot of seniors sitting in their houses because they can’t afford to move.
+I am very grateful to have been a guest on “The American Dream,” and I’d like to thank Amy Scruggs for hosting the segment.
+
+If you have any questions regarding Prop 5 or property taxes in general, please feel free to reach out to us at the Max Folkers Real Estate Team. We’d be happy to help.
+</description>
+        <enclosure url="" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>
+
+I was recently a guest on the talk show, “The American Dream,” where I spoke to host Amy Scruggs about a few key issues affecting the San Diego real estate market. Today I want to fill you in on the discussion so that you can stay in the know.
+
+</itunes:subtitle>
+        <itunes:author>Max Folkers</itunes:author>
+        <itunes:summary>
+
+I was recently a guest on the talk show, “The American Dream,” where I spoke to host Amy Scruggs about a few key issues affecting the San Diego real estate market. Today I want to fill you in on the discussion so that you can stay in the know.
+
+</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in San Diego, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Will the End of Summer Mean the End of Hot Market Conditions?</title>
+        <link>http://localhost:4000/will-end-of-summer-mean-end-of-hot.html</link>
+        
+          <category>San Diego Real Estate Market Update</category>
+        
+        <author>Max Folkers</author>
+        <pubDate>2018-08-23 10:54:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Max+Folkers/Videos/2018/Is+The+Market+Cooling+Down+This+Summer%253F+-+San+Diego+Real+Estate+Agent.mp4</guid>
+        <description>
+
+Our August weather is pretty hot, but is the real estate market beginning to cool down?
+
+
+Looking to sell your San Diego home? Get a free home value report
+Looking to buy a San Diego home? Click here for full MLS access
+
+
+Though we’re still seeing some strong numbers in terms of appreciation, we may soon reach the peak of our market. There are a couple of key indicators that this may be the case.
+
+First, there has been a significant drop in the number of homes sold recently. Second, there has been a fairly dramatic rise in inventory.
+
+“While early signs of a market cool down are appearing, no one can say what exactly the future may hold.”
+
+Beyond these two conditions, the number of mortgage applications being submitted has dropped to a four-year low. Some of this may be due to rising interest rates and diminishing affordability, but it’s also possible that our market may be cooling soon.
+
+The bottom line is this: No one has a crystal ball, but we Realtors do like to keep a pulse on the market. So while early signs of a market cool down are appearing, no one can say what exactly the future may hold.
+
+If you have any other questions or would like more information, feel free to give us a call or send us an email. We look forward to hearing from you soon.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Max+Folkers/Videos/2018/Is+The+Market+Cooling+Down+This+Summer%253F+-+San+Diego+Real+Estate+Agent.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Max+Folkers/Videos/2018/Is+The+Market+Cooling+Down+This+Summer%253F+-+San+Diego+Real+Estate+Agent.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>
+
+Our August weather is pretty hot, but is the real estate market beginning to cool down?
+
+</itunes:subtitle>
+        <itunes:author>Max Folkers</itunes:author>
+        <itunes:summary>
+
+Our August weather is pretty hot, but is the real estate market beginning to cool down?
+
+</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in San Diego, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>A Closer Look at Bay Park</title>
+        <link>http://localhost:4000/a-closer-look-at-bay-park.html</link>
+        
+          <category>San Diego Real Estate</category>
+        
+        <author>Max Folkers</author>
+        <pubDate>2018-08-20 12:22:00 -0500</pubDate>
+        <guid></guid>
+        <description>
+
+I recently joined Craig Sewing on “The American Dream” to talk about the Bay Park market and the real estate market in general. Here are a few highlights of what I discussed.
+
+
+Looking to sell your San Diego home? Get a free home value report
+Looking to buy a San Diego home? Click here for full MLS access
+
+
+The defining point of the market continues to be our low inventory. We are seeing the seasonal trend toward an increase, especially in the higher end, as affordability has dropped. However, for first-time homebuyers, it’s still a great market, even though there is not much to choose from.
+
+As for Bay Park in general, this is an area I love. You can get a view property here that’s relatively affordable and have a central commute all in one. Over the last decade or so that I have been out here, I’ve really seen a changing demographic. There is a younger population coming in, along with a rejuvenation of the school system and the economic sector. The next big thing we’re seeing here is the trollies coming in, which would have another positive impact.
+
+“There has been a changing demographic here over the last decade.”
+
+I also discussed a few great listings that we have out in Bay Park, including one of the original houses built way back in 1894. It’s a 4,600 square feet property that backs up to Tecolote Canyon and a 990-acre nature preserve. This home is a one-of-a-kind property in a one-of-a-kind location.
+
+If you have any questions about Bay Park or the San Diego real estate market in general, or if you are looking to buy or sell a home, please feel free to give me a call or send me an email. I look forward to hearing from you.
+</description>
+        <enclosure url="" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>
+
+I recently joined Craig Sewing on “The American Dream” to talk about the Bay Park market and the real estate market in general. Here are a few highlights of what I discussed.
+
+</itunes:subtitle>
+        <itunes:author>Max Folkers</itunes:author>
+        <itunes:summary>
+
+I recently joined Craig Sewing on “The American Dream” to talk about the Bay Park market and the real estate market in general. Here are a few highlights of what I discussed.
+
+</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in San Diego, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>A Gorgeous 5-Bedroom Home in the Heart of San Diego</title>
+        <link>http://localhost:4000/a-gorgeous-5-bedroom-home-in-heart-of.html</link>
+        
+          <category>San Diego Real Estate</category>
+        
+        <author>Max Folkers</author>
+        <pubDate>2018-08-13 13:39:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Max+Folkers/Videos/2018/List+It+Live+-+San+Diego+Real+Estate+Agent.mp4</guid>
+        <description>
+
+I just wanted to take a moment of your time to let you know about a fantastic new home that was just listed on the market. 3626 Lloyd Terrace is in one of my favorite areas of the city, and I recently sat down for an episode of “Smarter San Diego” to discuss it.
+
+
+Looking to sell your San Diego home? Get a free home value report
+Looking to buy a San Diego home? Click here for full MLS access
+
+
+This 2,799 square foot home is down in Bay Park and has five bedrooms and three bathrooms. In the video above, you’ll see that the home has ample space for living, entertaining, and more. The open floor plan really capitalized the space, and it’s right near the water as well.
+
+“The home has ample space for living and entertaining.”
+
+If you’d like to schedule a tour of this property for yourself or if you have any questions about it, don’t hesitate to give me a call or send me an email. I look forward to hearing from you soon.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Max+Folkers/Videos/2018/List+It+Live+-+San+Diego+Real+Estate+Agent.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Max+Folkers/Videos/2018/List+It+Live+-+San+Diego+Real+Estate+Agent.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>
+
+I just wanted to take a moment of your time to let you know about a fantastic new home that was just listed on the market. 3626 Lloyd Terrace is in one of my favorite areas of the city, and I recently sat down for an episode of “Smarter San Diego” to discuss it.
+
+</itunes:subtitle>
+        <itunes:author>Max Folkers</itunes:author>
+        <itunes:summary>
+
+I just wanted to take a moment of your time to let you know about a fantastic new home that was just listed on the market. 3626 Lloyd Terrace is in one of my favorite areas of the city, and I recently sat down for an episode of “Smarter San Diego” to discuss it.
+
+</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in San Diego, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>The Numbers Soared in Our April Market</title>
+        <link>http://localhost:4000/the-numbers-soared-in-our-april-market.html</link>
+        
+          <category>San Diego Real Estate Market Update</category>
+        
+        <author>Max Folkers</author>
+        <pubDate>2018-06-18 12:59:00 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Max+Folkers/Videos/2018/We+Have+Some+Exciting+Numbers+In+The+Market+-+San+Diego+Real+Estate+Agent.mp4</guid>
+        <description>
+
+We just received the latest San Diego market numbers from this past April, and we’ve reached some new highs in a few different categories.
+
+
+Looking to sell your San Diego home? Get a free home value report
+Looking to buy a San Diego home? Click here for full MLS access
+
+
+The first is median home price, which ended April at a brand-new high of $570,000. Prior to that, the record was $517,000, which was set all the way back in November 2005. In case you’re wondering, the all-time low for the median home price in San Diego is $280,000, which was set in November 2009. This means our market more than doubled our all-time low.
+
+The second (and less exciting) high came from interest rates, which reached 4.5% for a 30-year fixed rate. This wasn’t a record high, but it was the highest point we’d seen in the past seven years.
+
+“It will be interesting to see how our number of homes on the market evolves throughout the rest of the year.”
+
+As a matter of fact, it’s that high that may have contributed to our next high—the number of active homes on the market. At the end of April, we had approximately 6,500 homes on the market.
+
+The inflow and outflow of homes on the market is cyclical, and it’s not uncommon for this number to increase during this time of year. With both rising interest rates and rising prices hampering affordability, though, it will be interesting to see how this number evolves throughout the rest of the year.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Max+Folkers/Videos/2018/We+Have+Some+Exciting+Numbers+In+The+Market+-+San+Diego+Real+Estate+Agent.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Max+Folkers/Videos/2018/We+Have+Some+Exciting+Numbers+In+The+Market+-+San+Diego+Real+Estate+Agent.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>
+
+We just received the latest San Diego market numbers from this past April, and we’ve reached some new highs in a few different categories.
+
+</itunes:subtitle>
+        <itunes:author>Max Folkers</itunes:author>
+        <itunes:summary>
+
+We just received the latest San Diego market numbers from this past April, and we’ve reached some new highs in a few different categories.
+
+</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in San Diego, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>A Word About Our Current Market and an Invitation to Our Upcoming Seminar</title>
+        <link>http://localhost:4000/a-word-about-our-current-market-and.html</link>
+        
+          <category>San Diego Real Estate Market Update</category>
+        
+        <author>Max Folkers</author>
+        <pubDate>2018-04-20 14:01:00 -0500</pubDate>
+        <guid></guid>
+        <description>
+
+What’s the latest news from our San Diego market?
+
+
+Looking to sell your San Diego home? Get a free home value report
+Looking to buy a San Diego home? Click here for full MLS access
+
+
+Right now we’re deep into the buying season. For the last several years, April, May, and June have been the busiest months of the year, which is good for buyers because it means more inventory is coming on the market. It’s also good for sellers because it means a lot of buyers are making their move before summer vacation hits and before the school year starts. At the moment, it’s not uncommon to see listed houses attract multiple offers and sell for over asking price.
+
+Another important development to keep in mind is rent costs. I read an article recently that stated that the average San Diego rental is now over $1,800, which is a 23% increase over the last three years. Because of this, many people are looking at their rent costs, scratching their heads, and wondering whether now is the time to get off the fence.
+
+This trend is pushing people into the lower end of the market, and it brings me to our next topic.
+
+“It’s buying season in San Diego, and our upcoming seminar will make you a better buyer.”
+
+If you’re thinking of buying your first home or you’d like a refresher on how to buy a home in our market, you’re invited to attend our upcoming home buying seminar on Thursday, April 26 right here at our office at 4114 Napier Street, San Diego, California, 92110.
+
+This seminar will run from 6 p.m. to 7 p.m. We’ll discuss what interest rates look like right now, share some great down payment programs that are available, show you how to get your offer accepted in a competitive market like ours, and review what happens during the home buying process once you get your offer under contract.
+
+Pizza and refreshments will also be provided (if you know us, you know that means beer and wine). We look forward to a great turnout, and we look forward to seeing you there. To RSVP, click on this link.
+
+If you have any questions about our market or our this event, don’t hesitate to reach out to me. I’d be happy to help.
+</description>
+        <enclosure url="" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>
+
+What’s the latest news from our San Diego market?
+
+</itunes:subtitle>
+        <itunes:author>Max Folkers</itunes:author>
+        <itunes:summary>
+
+What’s the latest news from our San Diego market?
+
+</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in San Diego, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>An Update on the San Diego Market in 2018</title>
+        <link>http://localhost:4000/an-update-on-san-diego-market-in-2018.html</link>
+        
+          <category>San Diego Real Estate</category>
+        
+        <author>Max Folkers</author>
+        <pubDate>2018-02-01 11:53:00 -0600</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Max+Folkers/Videos/2018/Join+Us+for+Our+Grand+Opening+-+San+Diego+Real+Estate+Agent.mp4</guid>
+        <description>
+
+Before we get too far into the new year, I wanted to reach out with a few updates for you. First, I want to tell you about how the real estate market fared in 2017 in San Diego. Then I have a special event to invite you to. Let’s start with a market wrap up from 2017.
+
+
+Looking to sell your San Diego home? Get a free home value report
+Looking to buy a San Diego home? Click here for full MLS access
+
+
+The median price for a home in San Diego at the end of 2017 was $540,000. That’s up 9.1% from the previous year. This strong appreciation was mostly driven by the strong economy, as more investors decided to take advantage of the low inventory and low interest rates that we’re currently seeing. In 2018, we expect the low inventory and low interest rate trends to continue.
+
+“Join us this Saturday, February 3 from 12:00 p.m. to 4:00 p.m.”
+
+As for the special event, I just wanted to make sure and invite you out to the grand opening of our new office in Bay Park. It’s really beautiful and we’d love for you to come out and take a look on this Saturday, February 3 from 12:00 p.m. to 4:00 p.m. We’ve got a big space set aside with artificial turf and we’ll have a lot of different things ready for you, including a bounce castle, a taco cart, giveaways from local businesses, and more. We would love for you to stop by.
+
+If you have any questions for us about the current market or about our grand opening this weekend, don’t hesitate to give me a call or send me an email. I would love to hear from you.
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Max+Folkers/Videos/2018/Join+Us+for+Our+Grand+Opening+-+San+Diego+Real+Estate+Agent.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Max+Folkers/Videos/2018/Join+Us+for+Our+Grand+Opening+-+San+Diego+Real+Estate+Agent.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>
+
+Before we get too far into the new year, I wanted to reach out with a few updates for you. First, I want to tell you about how the real estate market fared in 2017 in San Diego. Then I have a special event to invite you to. Let’s start with a market wrap up from 2017.
+
+</itunes:subtitle>
+        <itunes:author>Max Folkers</itunes:author>
+        <itunes:summary>
+
+Before we get too far into the new year, I wanted to reach out with a few updates for you. First, I want to tell you about how the real estate market fared in 2017 in San Diego. Then I have a special event to invite you to. Let’s start with a market wrap up from 2017.
+
+</itunes:summary>
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in San Diego, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       

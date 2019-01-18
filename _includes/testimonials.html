@@ -23,7 +23,9 @@
 									<p class="expand item-toggle">Show Less <i class="fa fa-minus-square-o expand"></i></p>
 								{% endif %}
 								</div>
+								{% if item.name != null %}
 		            {{item.name | prepend: '<p class="testimonial-attribute"> - ' | append: '</p>'}}
+								{% endif %}
 								<div class="testimonial-audio">
 									{% if item.audio != null %}
 										<p>Listen to the whole Interview:</p>
