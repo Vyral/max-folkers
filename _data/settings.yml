@@ -52,7 +52,7 @@ second_sidebar_CTA:
     
 third_sidebar_CTA:
   - CTA_image_path3: /img/cta-images/003.jpg
-    CTA_title3: "Download Bay Park Real Estate"
+    CTA_title3: "Download the Bay Park Real Estate App"
     CTA_text3: "Bay Park Real Estate is available now for your smartphone or tablet."
     CTA_link_text3: "Download Here"
     CTA_url3: https://homestack.com/a/bayparkrealestate 
