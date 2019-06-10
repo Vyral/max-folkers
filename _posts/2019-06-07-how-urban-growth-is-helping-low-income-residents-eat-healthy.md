@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Urban Growth Is Helping Low-Income Residents Eat Healthy
-date: 2019-06-07 17:22:27
+date: 2019-06-07 17:22:00
 tags:
   - Real Estate
 excerpt: >-
@@ -30,7 +30,7 @@ In case you don’t know, hydroponics is the process of growing food without soi
 
 This subject is near and dear to my heart, and **we’re hosting an event at our office on June 15 at 1 p.m. with San Diego Hydroponics & Organics where they’ll be teaching a Hydroponics 101 class.** All the proceeds from this event will go toward helping Urban Growth provide low-income residents with nutritious produce they otherwise wouldn’t be able to afford, so I invite you to join us.&nbsp;
 
-If you’d like to know more about Urban Growth, you can visit them on their website [https://www.urbangrowth.farm/](https://www.urbangrowth.farm/) or check them out on I[nstagram.&nbsp;](https://www.instagram.com/urbangrowthsd/){: target="_blank"}
+If you’d like to know more about Urban Growth, you can visit them on their website [www.urbangrowth.farm](https://www.urbangrowth.farm/){: target="_blank"}&nbsp;or check them out on [Instagram.&nbsp;](https://www.instagram.com/urbangrowthsd/){: target="_blank"}
 
 If you have any more questions about this topic, don’t hesitate to reach out to me. I’d love to speak with you.&nbsp;<br>&nbsp;
 
