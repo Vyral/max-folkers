@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Deft Brewing: More Than Just a Normal Brewery'
-date: 2019-07-29 19:36:28
+date: 2019-07-29 19:36:00
 tags:
   - Real Estate
 excerpt: >-
@@ -31,6 +31,6 @@ In addition to offering a sophisticated selection of brews any beer connoisseur 
 
 Most people consider this part of Bay Park an industrial area, but with the trolley expansion, the city is looking at building more housing along the transit corridors, and **the plan is to redevelop the land around where the trolley stop will be built.&nbsp;**
 
-At 3:45 in the video, you can get a quick tour of the facilities and watch as we have our own tasting session. If you’d like to know more about Deft Brewing, you can visit their website [deftbrewing.com](deftbrewing.com){: target="_blank"}.&nbsp;
+At 3:45 in the video, you can get a quick tour of the facilities and watch as we have our own tasting session. If you’d like to know more about Deft Brewing, you can visit their website [http://deftbrewing.com/](http://deftbrewing.com/){: target="_blank"}.&nbsp;
 
 As always, if you have any real estate questions for me, feel free to give me a call or send me an email. I’d love to help you.&nbsp;<br>&nbsp;
