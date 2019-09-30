@@ -1,9 +1,8 @@
 ---
 layout: post
 title: 'VIP NeuroRehab: A Physical Therapy Clinic Run By Patients, for Patients'
-date: 2019-09-30 19:27:49
+date: 2019-09-30 19:27:00
 tags:
-  - Community Events
 excerpt: 'On this episode of “The American Dream,” I’m visiting VIP NeuroRehab.'
 enclosure:
 pullquote: >-
@@ -11,8 +10,8 @@ pullquote: >-
   another one coming up on October 5 that you won’t want to miss.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image:
+use_youtube_image: false
+youtube_alternate_image: /uploads/9-26-19yt-1.jpg
 youtube_code:
 ---
 
