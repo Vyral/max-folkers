@@ -21,6 +21,8 @@ youtube_code: TpQfz6ySq-0
 
 {% include youtube.html %}
 
+*As we progress through 2020, buyer demand should increase and keep driving appreciation. *
+
 We all wish we had a crystal ball to answer this question, but looking at past market numbers enables us to get a clearer view of the future. CoreLogic showed a year-over-year appreciation rate of 3.6% to 3.7% in 2019, and that rate is expected to go up about 1.5% this year. So **after a bit of a slowdown, it looks like the market is picking back up, and there are a few reasons why.&nbsp;**
 
 The first is inventory. As of the recording of this video, there were about 4,600 homes on the market in San Diego County, which is about where we were during this time last year. From here, it typically increases until eventually doubling in late summer/early fall.&nbsp;
