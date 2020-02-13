@@ -7,8 +7,7 @@ tags:
 excerpt: >-
   As we progress through 2020, buyer demand should increase and keep driving
   appreciation.
-enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Max+Folkers/Videos/2020/How+Is+The+San+Diego+Market+Heading+Into+2020_.mp4
+enclosure:
 pullquote: >-
   A lot of factors are making it easier for buyers to get into homes, which will
   create more demand and continue driving appreciation.
