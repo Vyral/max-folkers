@@ -21,7 +21,7 @@ youtube_code: TpQfz6ySq-0
 
 {% include youtube.html %}
 
-<I><center>As we progress through 2020, buyer demand should increase and keep driving appreciation.</I></center> 
+<I><center>As we progress through 2020, buyer demand should increase and keep driving appreciation.</center></I>
 
 We all wish we had a crystal ball to answer this question, but looking at past market numbers enables us to get a clearer view of the future. CoreLogic showed a year-over-year appreciation rate of 3.6% to 3.7% in 2019, and that rate is expected to go up about 1.5% this year. So **after a bit of a slowdown, it looks like the market is picking back up, and there are a few reasons why.&nbsp;**
 
