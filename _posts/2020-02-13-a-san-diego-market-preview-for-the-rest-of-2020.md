@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A San Diego Market Preview for the Rest of 2020
-date: 2020-02-13 17:11:33
+date: 2020-02-13 05:11:00
 tags:
   - Real Estate
 excerpt: >-
