@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The State of Our Market
+title: A San Diego Market Preview for the Rest of 2020
 date: 2020-02-13 05:11:00
 tags:
   - Real Estate
