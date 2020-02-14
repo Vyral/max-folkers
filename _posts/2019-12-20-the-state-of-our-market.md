@@ -1,7 +1,7 @@
 ---
 layout: post
-title: The State of Our Market as We Meet 2020
-date: 2019-12-20 18:48:17
+title: The State of Our Market
+date: 2019-12-20 18:48:00
 tags:
   - Market Update
 excerpt: >-
