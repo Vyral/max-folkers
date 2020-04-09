@@ -1,18 +1,19 @@
 ---
 layout: post
 title: Resources for Financial Help
-date: 2020-04-09 19:45:55
+date: 2020-04-09 19:45:00
 tags:
 excerpt: >-
   I’m sharing resources for if you’ve been financially impacted by the
   coronavirus.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Max+Folkers/We+Have+Some+Resources+For+You.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code:
+youtube_code: rInPmkTd3XQ
 ---
 
 {% include youtube.html %}
