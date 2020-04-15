@@ -34,7 +34,7 @@ CTAs:
   first_CTA_text: Home Valuation
   first_CTA_URL: http://www.sandiegocityhomevalues.com/
   second_CTA_text: Home Search
-  second_CTA_URL: http://maxfolkers.com/
+  second_CTA_URL: https://maxfolkers.remax.com/
 
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/001.jpg
@@ -48,7 +48,7 @@ second_sidebar_CTA:
     CTA_title2: "Looking for a San Diego Home?"
     CTA_text2: "Search the entire MLS for your San Diego home."
     CTA_link_text2: "Search the MLS"
-    CTA_url2: http://maxfolkers.com/
+    CTA_url2: https://maxfolkers.remax.com/
     
 third_sidebar_CTA:
   - CTA_image_path3: /img/cta-images/003.jpg
