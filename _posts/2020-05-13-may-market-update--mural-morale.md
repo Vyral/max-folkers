@@ -16,7 +16,9 @@ youtube_code: hP2hk0U56v4
 
 {% include youtube.html %}
 
-*We’ll help paint a picture of the market, and you can help us paint a mural.*
+<center><em>We’ll help paint a picture of the market, and you can help us paint a mural.</em></center>
+
+&nbsp;
 
 A recent report from Zillow forecasts a 2% to 3% decrease in home prices this year. Top NAR economist Lawrence Yun countered that with a projection of 1.3% growth over the course of 2020. Of course, that’s all on a national level, and we know real estate is hyperlocal—what’s been the story here?
 
