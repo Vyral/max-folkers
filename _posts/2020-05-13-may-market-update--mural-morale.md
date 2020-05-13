@@ -4,7 +4,8 @@ title: May Market Update & Mural Morale
 date: 2020-05-13 17:40:00
 tags:
 excerpt: 'We’ll help paint a picture of the market, and you can help us paint a mural.'
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Max+Folkers/Videos/2020/What+The+Market+Is+Looking+Like.mp4
 pullquote: The lack of inventory is expected to keep demand high and prices stable.
 enclosure_type: video/mp4
 enclosure_time:
