@@ -17,7 +17,10 @@ youtube_code: vfDObQcGGuw
 
 {% include youtube.html %}
 
-*What’s been going on in our local real estate market? Find out today.*
+<center><em>What’s been going on in our local real estate market? Find out today.</em></center>
+
+&nbsp;
+&nbsp;
 
 According to Diana Olick of CNBC, “Mortgage demand from homebuyers shows unexpectedly strong and quick recovery…. The quick recovery has surprised most forecasters.” Last week, **interest rates hit an all-time low—less than 3% for a 30-year fixed mortgage\!**
 
