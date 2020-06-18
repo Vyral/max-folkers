@@ -1,10 +1,10 @@
 ---
 layout: post
 title: 'Q: What’s Going on in Our Market?'
-date: 2020-06-18 18:15:59
+date: 2020-06-18 18:15:00
 tags:
 excerpt: What’s been going on in our local real estate market? Find out today.
-enclosure:
+enclosure: 'https://vyralmarketing.s3.amazonaws.com/Max+Folkers/Market+Update.mp4'
 pullquote: >-
   The bottom line is that it’s a great time to sell your home—you might even get
   multiple offers, which can drive your prices up even more.
