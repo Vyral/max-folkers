@@ -10,17 +10,16 @@ pullquote: >-
   multiple offers, which can drive your prices up even more.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image:
+use_youtube_image: false
+youtube_alternate_image: /uploads/maaaax.jpg
 youtube_code: vfDObQcGGuw
 ---
 
 {% include youtube.html %}
 
-<center><em>What’s been going on in our local real estate market? Find out today.</em></center>
+<center><em>What&rsquo;s been going on in our local real estate market? Find out today.</em></center>
 
-&nbsp;
-&nbsp;
+&nbsp; &nbsp;
 
 According to Diana Olick of CNBC, “Mortgage demand from homebuyers shows unexpectedly strong and quick recovery…. The quick recovery has surprised most forecasters.” Last week, **interest rates hit an all-time low—less than 3% for a 30-year fixed mortgage\!**
 
