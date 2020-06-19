@@ -21,7 +21,7 @@ youtube_code: vfDObQcGGuw
 
 &nbsp; &nbsp;
 
-According to Diana Olick of CNBC, “Mortgage demand from homebuyers shows unexpectedly strong and quick recovery…. The quick recovery has surprised most forecasters.” Last week, **interest rates hit an all-time low—less than 3% for a 30-year fixed mortgage\!**
+According to Diana Olick of CNBC, “Mortgage demand from homebuyers shows unexpectedly strong and quick recovery... The quick recovery has surprised most forecasters.” Last week, **interest rates hit an all-time low—less than 3% for a 30-year fixed mortgage\!**
 
 We’ve also taken a look at the number of showings in the market. Since mid-March, the number of showings plummeted when compared to the same time in 2019. However, if you look on the chart at 1:22 in the video above, you can see just how quickly that number has rebounded. Now that the country is starting to reopen, people have gotten more comfortable going out, so **the number of showings has skyrocketed since early April.** We currently have almost 40 more showings now than we did this same time last year.
 
@@ -29,7 +29,7 @@ We’ve also taken a look at the number of showings in the market. Since mid-Mar
 
 The downside is evident in the number of new listings. Unsurprisingly, there was a huge spike in the number of pending sales between April and May, but active listings have dropped by 30% year over year. **There has been a lag between the buyers coming back to the market and the sellers who aren’t quite ready to put their homes on the market.** Given the economic uncertainty in the world, many people have paused their real estate plans.&nbsp;
 
-Finally, a survey measuring what six major economic entities predicted was going to happen with national home prices in 2020, 2021, and 2022. Five out of six of those entities expect home prices to go up in 2020; all of them expect prices to appreciate in 2021, and though only three responded for 2022, all three of them expect prices to go up that year, too.
+A recent survey captured what six major economic entities predict will happen with national home prices in 2020, 2021, and 2022.. Five out of six of those entities expect home prices to go up in 2020; all of them expect prices to appreciate in 2021, and though only three responded for 2022, all three of them expect prices to go up that year, too.
 
 Here in San Diego,&nbsp; **the number of buyers coming to the market to take advantage of these rates is vastly outpacing the number of sellers** on the market.&nbsp;
 
