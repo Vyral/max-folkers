@@ -1,10 +1,11 @@
 ---
 layout: post
 title: 'Q: What’s the Latest With San Diego Real Estate?'
-date: 2020-09-04 18:53:06
+date: 2020-09-04 18:53:00
 tags:
 excerpt: Here’s the latest update on our real estate market.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Max+Folkers/Market+Update+9-2-20+(1).mp4
 pullquote: We’re in a hot seller’s market right now.
 enclosure_type: video/mp4
 enclosure_time:
