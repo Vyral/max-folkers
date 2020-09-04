@@ -16,7 +16,8 @@ youtube_code: FENa4obPZu8
 
 {% include youtube.html %}
 
-*Here’s the latest update on our real estate market.*
+<center><em>Here’s the latest update on our real estate market.</em></center>
+&nbsp;
 
 It’s officially September\! Today I wanted to give you a quick update on what we saw in the San Diego market this summer.
 
