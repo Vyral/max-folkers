@@ -9,14 +9,15 @@ enclosure: >-
 pullquote: We’re in a hot seller’s market right now.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
+use_youtube_image: false
 youtube_alternate_image: /uploads/9-3-20yt.jpg
 youtube_code: FENa4obPZu8
 ---
 
 {% include youtube.html %}
 
-<center><em>Here’s the latest update on our real estate market.</em></center>
+<center><em>Here&rsquo;s the latest update on our real estate market.</em></center>
+
 &nbsp;
 
 It’s officially September\! Today I wanted to give you a quick update on what we saw in the San Diego market this summer.
