@@ -22,11 +22,11 @@ youtube_code: FENa4obPZu8
 
 It’s officially September\! Today I wanted to give you a quick update on what we saw in the San Diego market this summer.
 
-{% include pullquote.html %}
-
-As I’m sitting here, there are a few different statistics that will give you a great idea of where our market currently is and where it is headed. **Active listings, for example, were down 44% year over year in August.** At the same time, pending listings are up 19.2% year over year. In other words, there are more home sales right now than there were at this time last year despite COVID.&nbsp;
+There are a few different statistics that will give you a great idea of where our market currently is and where it is headed. **Active listings, for example, were down 44% year over year in August.** At the same time, pending listings are up 19.2% year over year. In other words, there are more home sales right now than there were at this time last year despite COVID.&nbsp;
 
 **As a result, our median price is at an all-time high of $646,500.** Of the seven deals we have in escrow right now, one was a full-priced cash offer and the other six were all over asking price. That’s the kind of market we’re in right now.
+
+{% include pullquote.html %}
 
 If you’re a buyer in this market, you’ll need to be on top of your game. **You need a pre-qualification letter or proof of funds, you need to get creative with contingencies, and you need to partner with an experienced broker** who can get a deal done for you in this type of competitive market.
 
