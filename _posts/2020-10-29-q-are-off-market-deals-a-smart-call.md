@@ -17,8 +17,8 @@ youtube_code: ShJ6_ppt8R4
 
 {% include youtube.html %}
 
-*Here’s one of many examples illustrating the danger of off-market sales.&nbsp;*
-
+<center><em>Here’s one of many examples illustrating the danger of off-market sales.</em></center>
+&nbsp;
 At the moment, there’s a lot going on—understatement of the year, right? We’re still dealing with a pandemic, civil unrest, political tensions, and economic uncertainty. Fear and doubt are plentiful in this climate, and unfortunately, **there are people out there willing to prey on homeowners’ equity.&nbsp;**
 
 Let’s look at an example of an off-market deal that took place last month in Bay Park. At 1:12 in the video above, you can see the net sheet for this particular transaction. In a nutshell, a wholesaler called up a homeowner and said, “I’d love to buy your home as is—no Realtor commissions, no closing costs, no termite inspections, no repairs.” The wholesaler offered the seller $650,000. However, without even putting a dime into escrow, the wholesaler said, “I’ll buy it, or assignee.” If you hear “or assignee,” you should be on high alert; the “assignee” in this case ended up being another investor who in turn bought the home from the wholesaler as is for $740,000.&nbsp;
