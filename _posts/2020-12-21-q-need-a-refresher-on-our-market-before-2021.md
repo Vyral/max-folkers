@@ -1,10 +1,11 @@
 ---
 layout: post
 title: 'Q: Need a Refresher on Our Market Before 2021?'
-date: 2020-12-21 21:23:12
+date: 2020-12-21 21:23:00
 tags:
 excerpt: Here’s a summary of San Diego’s interesting year as we brace for 2021.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Max+Folkers/Videos/2020/Market+Update.mp4
 pullquote: >-
   We’ll only see more demand and upward pressure on the market in 2021 as the
   buyer pool swells.
@@ -17,7 +18,7 @@ youtube_code: RTqvVsUhObs
 
 {% include youtube.html %}
 
-<center><em>Here’s a summary of San Diego’s interesting year as we brace for 2021.</em></center>
+<center><em>Here&rsquo;s a summary of San Diego&rsquo;s interesting year as we brace for 2021.</em></center>
 
 &nbsp;
 
