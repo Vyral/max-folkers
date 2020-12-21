@@ -17,7 +17,7 @@ youtube_code: RTqvVsUhObs
 
 {% include youtube.html %}
 
-*Here’s a summary of San Diego’s interesting year as we brace for 2021.*
+<center><em>Here’s a summary of San Diego’s interesting year as we brace for 2021.</em></center>
 
 &nbsp;
 
