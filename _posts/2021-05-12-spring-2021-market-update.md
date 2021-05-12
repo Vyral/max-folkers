@@ -6,7 +6,8 @@ tags:
   - Market Update
   - Real Estate
 excerpt: Buyer strategies suited for this crazy seller’s market we’re in.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Max+Folkers/Strategies+As+A+Buyer+To+Get+Your+Offer+Accepted_Market+Update.mp4
 pullquote: >-
   Now that homes are starting to sell at these high prices, appraisals are now
   back in line.
@@ -18,7 +19,9 @@ youtube_code: VhtwJ41zuOY
 ---
 {% include youtube.html %}
 
-<center><em>Buyer strategies suited for this crazy seller’s market we’re in.</em></center>
+<center><em>Buyer strategies suited for this crazy seller&rsquo;s market we&rsquo;re in.</em></center>
+
+<center>&nbsp;</center>
 
 Today I want to discuss buyer strategies to get your offer accepted and tell you a little bit more about why we're in this competitive market in the first place. The year-over-year median sales price is up to $715,000, which is a 19.2% increase. Here's what's driving it: Of the last 10 years, we are at an all-time-low inventory of 2,727 homes. That low supply is driven by high demand, which in turn is driven by low interest rates. Demand is so strong that I don't see any change happening in the near future.
 
