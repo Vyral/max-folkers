@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Spring 2021 Market Update
+title: Buyer Strategies To Get Your Offer Accepted
 date: 2021-05-12 00:00:00
 tags:
   - Market Update
