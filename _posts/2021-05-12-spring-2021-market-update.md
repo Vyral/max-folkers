@@ -9,8 +9,8 @@ excerpt: Buyer strategies suited for this crazy seller’s market we’re in.
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Max+Folkers/Strategies+As+A+Buyer+To+Get+Your+Offer+Accepted_Market+Update.mp4
 pullquote: >-
-  Now that homes are starting to sell at these high prices, appraisals are now
-  back in line.
+  Now that homes are starting to sell at these high prices, appraisals are back
+  in line.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
@@ -31,7 +31,7 @@ As a buyer, here’s what you could do to get your offer accepted in this compet
 
 **1\. Inspection contingency.** Shorten your inspection contingency as much as possible. We typically will set ours to between five and seven days. We are seeing some offers that are waiving the inspection contingency altogether.
 
-**2\. Appraisal.** This has been a big issue in the past. Now that homes are starting to sell at these high prices, appraisals are now back in line. We’re seeing a lot of offers with the appraisal contingency waived, saying if it doesn't appraise at value, the buyers make up the difference. You could also set a cap on this.
+**2\. Appraisal.** This has been a big issue in the past. Now that homes are starting to sell at these high prices, appraisals are back in line. We’re seeing a lot of offers with the appraisal contingency waived, saying if it doesn't appraise at value, the buyers make up the difference. You could also set a cap on this.
 
 **3\. Price.** Something we're now seeing is called an escalation clause, which allows you to automatically exceed a competitor’s offer by a certain amount, up to a cap amount that you set. Escalation clauses aren't used everywhere in the country, but they are legal in California. I'd recommend checking with the listing agent&nbsp; about whether they're comfortable with it.
 
