@@ -5,7 +5,7 @@ date: 2021-10-04 15:00:00
 tags:
   - Real Estate
   - Market Update
-excerpt: Talking with Max Folkers, mayor of Bay Park, about this amazing area.
+excerpt: I talk with Derrick Evens about why Bay Park is such a desirable location.
 enclosure: >-
   s3://vyralmarketing/Max Folkers/Videos/2021/Max Folkers on Why Bay Park Is So
   Desirable.mp4
@@ -18,13 +18,13 @@ youtube_code: BZn9UJxthPM
 ---
 {% include youtube.html %}
 
-The San Diego real estate market is hot, but one of the hottest areas is Bay Park. I’m joined today by Max Folkers, the mayor of Bay Park and a friend of mine. We remember thinking that Bay Park was an attractive but relatively cheap area a couple of years ago. No longer. We talk about this community’s rapid rise to one of the most desirable areas in San Diego and what the market looks like in that area.
+The San Diego real estate market is hot, but one of the hottest areas is Bay Park. I spoke with Derrick Evens, a loan officer, show host, and friend of mine. We remember thinking that Bay Park was an attractive but relatively cheap area a couple of years ago. No longer. We talk about this community’s rapid rise to one of the most desirable areas in San Diego and what the market looks like now.
 
 **You can watch the full message above or navigate to topics that interest you via the timestamps provided below:&nbsp;**
 
 0:25 — What’s so appealing about Bay Park?
 
-1:39 — How Max came to know and love the community
+1:39 — How I came to know and love the community
 
 1:48 — Bay Park's late arrival to the party: close to the beach, great location
 
@@ -52,4 +52,4 @@ The San Diego real estate market is hot, but one of the hottest areas is Bay Par
 
 12:25 — Wrapping up
 
-I hope you learned a little bit about the highly desirable Bay Park area. If you did learn something, share this with your friends and help make them smarter than everyone else. If you have questions about the community or anything else related to real estate, feel free to give me a call.
+I hope you learned a little bit about the highly desirable Bay Park area. If you have questions about the community or anything else related to real estate, feel free to give me a call.
