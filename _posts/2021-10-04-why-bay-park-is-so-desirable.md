@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Max Folkers on Why Bay Park Is So Desirable
+title: Why Bay Park Is So Desirable
 date: 2021-10-04 15:00:00
 tags:
   - Real Estate
