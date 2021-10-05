@@ -18,7 +18,7 @@ youtube_code: BZn9UJxthPM
 ---
 {% include youtube.html %}
 
-The San Diego real estate market is hot, but one of the hottest areas is Bay Park. I spoke with Derrick Evens, a loan officer, show host, and friend of mine. We remember thinking that Bay Park was an attractive but relatively cheap area a couple of years ago. No longer. We talk about this community’s rapid rise to one of the most desirable areas in San Diego and what the market looks like now.
+The San Diego real estate market is hot, but one of the hottest areas is Bay Park. I spoke with Derrick Evens, a loan officer, host of "Smarter San Diego, and friend of mine. We remember thinking that Bay Park was an attractive but relatively cheap area a couple of years ago. No longer. Today we're talking about this community’s rapid rise to one of the most desirable areas in San Diego and what the market looks like now.
 
 **You can watch the full message above or navigate to topics that interest you via the timestamps provided below:&nbsp;**
 
@@ -46,10 +46,10 @@ The San Diego real estate market is hot, but one of the hottest areas is Bay Par
 
 9:43 — Strategy for new listings
 
-11:00 — Open Houses
+11:00 — Open houses
 
 11:48 — What’s to come in the market moving forward?
 
 12:25 — Wrapping up
 
-I hope you learned a little bit about the highly desirable Bay Park area. If you have questions about the community or anything else related to real estate, feel free to give me a call.
+I hope you learned a little bit about the highly desirable Bay Park area. If you have questions about the community or anything else related to real estate, feel free to give me a call. I look forward to hearing from you.&nbsp;
