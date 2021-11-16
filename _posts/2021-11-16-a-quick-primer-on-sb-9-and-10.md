@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A Quick Primer on SB-9 and 10
-date: 2021-11-15 00:00:00
+date: 2021-11-16 00:00:00
 tags:
     - Market Update
     - Real Estate
