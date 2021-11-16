@@ -22,7 +22,7 @@ Today I wanted to give you a quick summary of Senate bills 9 and 10 that were re
 
 {% include pullquote.html %}
 
-**SB-9 lets any single-family homeowner become a developer by splitting their lot** and building homes on each of those lots. You need to have 1,200 square feet on each of those lots, and they need to be of similar sizes. The homeowner also needs to reside in one of the units for at least three years after splitting the lot, which prevents investors from taking advantage of this. There’s a big push for accessory units right now, but this gives you the ability to add even more.
+**SB-9 lets any single-family homeowner become a developer by splitting their lot** and building homes on each of those lots. You need to have 1,200 square feet on each lot, and they need to be of similar sizes. The homeowner also needs to reside in one of the units for at least three years after splitting the lot, which prevents investors from taking advantage of this. There’s a big push for accessory units right now, but this gives you the ability to add even more.
 
 SB-10 is a little more controversial. **It lets local governments allow up to 10 homes per parcel.** The bill cuts some of the red tape around doing so, and it makes it exempt from the EPA. However, the lot has to meet the definition of urban infill and be near public transportation or a job-rich area.
 
