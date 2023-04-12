@@ -20,4 +20,4 @@ Have you heard the news? We’re hosting an in-person event this month at our of
 
 **This event will be about a hot topic in San Diego real estate:** Adding additional units to your property. It will be at an amazing event space, and there will be drinks and snacks.&nbsp;
 
-The number of attendees will be limited, so **[click here](https://www.eventbrite.com/e/adu-class-from-start-to-finish-tickets-571049062117)** to reserve your spot. As always, don’t hesitate to call or email us with any questions. We look forward to hearing from you!
+The number of attendees will be limited, so **[click here](https://www.eventbrite.com/e/adu-class-from-start-to-finish-tickets-571049062117){: target="_blank" rel="noopener"}** to reserve your spot. As always, don’t hesitate to call or email us with any questions. We look forward to hearing from you!
