@@ -43,4 +43,4 @@ Jason highlights the evolving challenges of being a landlord, particularly in Ca
 
 This brief conversation only scratches the surface of what Jason will cover in-depth during our event on October 11th at 6 p.m. We have a fantastic event space at our office, and you won't want to miss the eye-opening insights Jason has to offer. If you're interested, please RSVP using the link below. Hurry, as spaces are limited! We look forward to seeing you there.
 
-\[RSVP for the Event\]
+[\[RSVP for the Event\]](https://www.eventbrite.com/e/how-to-retire-from-being-a-landlord-tickets-713993693357?aff=oddtdtcreator){: target="_blank" rel="noopener"}
