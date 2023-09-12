@@ -1,6 +1,12 @@
 audit_header: false
 title: San Diego Real Estate Video Blog with Max Folkers
-description: Our mission at Max Folkers Real Estate Team is to be your best resource for San Diego real estate advice. Whether you are a buyer, seller, or investor, our team of professionals can answer any questions you might have about real estate. If you are looking to buy or sell a home, you can get all the information and the latest updates, tips, and tricks from The Max Folkers Real Estate Team, your professional San Diego Real Estate Agents.
+description: >-
+  Our mission at Max Folkers Real Estate Team is to be your best resource for
+  San Diego real estate advice. Whether you are a buyer, seller, or investor,
+  our team of professionals can answer any questions you might have about real
+  estate. If you are looking to buy or sell a home, you can get all the
+  information and the latest updates, tips, and tricks from The Max Folkers Real
+  Estate Team, your professional San Diego Real Estate Agents.
 show_custom_links: false
 custom_links:
   - title:
@@ -9,54 +15,59 @@ show_custom_links_new_tab: false
 custom_links_new_tab:
   - title:
     url:
-
 client:
   name: Max Folkers
   title:
   license_number: 'CA BRE # 01466910'
-  about_markdown: |
-    There are a lot of great Realtors here in San Diego, but we think we are the perfect choice for your real estate needs. Over the last 15 years, I have had the opportunity to apply the integrity, attention to detail, and work ethic that served me well as a Navy pilot, to helping hundreds of families buy or sell a home of their own in San Diego.
+  about_markdown: >
+    There are a lot of great Realtors here in San Diego, but we think we are the
+    perfect choice for your real estate needs. Over the last 15 years, I have
+    had the opportunity to apply the integrity, attention to detail, and work
+    ethic that served me well as a Navy pilot, to helping hundreds of families
+    buy or sell a home of their own in San Diego.
 
-    My team and I pride ourselves on using cutting edge technology combined with the latest and greatest marketing information to give you, our clients, access to the most up-to-date information out there. I love what I do, and I love helping families achieve their goals with the greatest asset in their lives, their homes.
+
+    My team and I pride ourselves on using cutting edge technology combined with
+    the latest and greatest marketing information to give you, our clients,
+    access to the most up-to-date information out there. I love what I do, and I
+    love helping families achieve their goals with the greatest asset in their
+    lives, their homes.
   brand: Max Folkers Real Estate Team
   brokerage: RE/MAX Pacific
   market: San Diego
   address: 4114 Napier St. San Diego, CA 92110
-  address2: 
+  address2:
   phone: 619-977-8364
   phone_type:
   phone2:
   phone2_type:
   email: team@maxfolkers.com
   url: http://maxfolkers.com
-
 CTAs:
   first_CTA_text: Home Valuation
-  first_CTA_URL: http://www.sandiegocityhomevalues.com/
+  first_CTA_URL: https://www.remaxmax.com/home-valuation
   second_CTA_text: Home Search
-  second_CTA_URL: https://maxfolkers.remax.com/
-
+  second_CTA_URL: https://www.remaxmax.com/
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/001.jpg
-    CTA_title: "What’s Your San Diego Home Worth?"
-    CTA_text: "Are you thinking of selling your home or interested in learning about home prices in your neighborhood? We can help you."
-    CTA_link_text: "Free Home Value Report"
-    CTA_url: http://www.sandiegocityhomevalues.com/
-
+    CTA_title: What’s Your San Diego Home Worth?
+    CTA_text: >-
+      Are you thinking of selling your home or interested in learning about home
+      prices in your neighborhood? We can help you.
+    CTA_link_text: Free Home Value Report
+    CTA_url: https://www.remaxmax.com/home-valuation
 second_sidebar_CTA:
   - CTA_image_path2: /img/cta-images/002.jpg
-    CTA_title2: "Looking for a San Diego Home?"
-    CTA_text2: "Search the entire MLS for your San Diego home."
-    CTA_link_text2: "Search the MLS"
+    CTA_title2: Looking for a San Diego Home?
+    CTA_text2: Search the entire MLS for your San Diego home.
+    CTA_link_text2: Search the MLS
     CTA_url2: https://maxfolkers.remax.com/
-    
 third_sidebar_CTA:
-  - CTA_image_path3: /img/cta-images/003.jpg
-    CTA_title3: "Download the Bay Park Real Estate App"
-    CTA_text3: "Bay Park Real Estate is available now for your smartphone or tablet."
-    CTA_link_text3: "Download Here"
-    CTA_url3: https://homestack.com/a/bayparkrealestate 
-
+  - CTA_image_path3:
+    CTA_title3:
+    CTA_text3:
+    CTA_link_text3:
+    CTA_url3:
 lender:
   show_section: false
   header_text: Preferred Lender
@@ -69,7 +80,6 @@ lender:
   phone:
   email:
   url:
-
 socials:
   review_sm_icons: false
   facebook_url: https://www.facebook.com/SanDiegoRealEstatebyMaxFolkers
@@ -79,19 +89,30 @@ socials:
   instagram_url:
   pinterest_url:
   zillow_url: http://www.zillow.com/profile/San-Diego-Home/
-  trulia_url: http://www.trulia.com/profile/max-folkers-agent-san-diego-ca-2196732/overview
+  trulia_url: >-
+    http://www.trulia.com/profile/max-folkers-agent-san-diego-ca-2196732/overview
   yelp_url: http://www.yelp.com/biz/max-folkers-san-diego
-  podcast_url: https://itunes.apple.com/us/podcast/san-diego-real-estatepodcast/id1188440094?mt=2
-
+  podcast_url: >-
+    https://itunes.apple.com/us/podcast/san-diego-real-estatepodcast/id1188440094?mt=2
 podcast:
-  title: 'San Diego Real Estate Podcast with Max Folkers'
+  title: San Diego Real Estate Podcast with Max Folkers
   categories: Education
   image: /img/podcast.jpg
-  subtitle: 'Learn all the tips, tricks and more for buyers and sellers in the San Diego Area Real Estate Market'
-  description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Max Folkers Real Estate Team - your professional San Diego Real Estate Agents.'
-  keywords: 'Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in San Diego, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer'
-  author: 'Max Folkers'
-
+  subtitle: >-
+    Learn all the tips, tricks and more for buyers and sellers in the San Diego
+    Area Real Estate Market
+  description: >-
+    If you are looking to buy or sell a home, get all the information and the
+    latest updates, tips, and tricks from Max Folkers Real Estate Team - your
+    professional San Diego Real Estate Agents.
+  keywords: >-
+    Real Estate for sale, Real Estate agents, top real estate agents, local real
+    estate agents, find a real estate agent, houses for sale in San Diego, home
+    selling tips, home for sale, home buying, home buying process, property
+    finder, property search, property, real estate market, estate agent,
+    realestate, real estate listings, buying a house, homes for sale, mls, home
+    buyer
+  author: Max Folkers
 images:
   client_headshot_path: /img/headshot.jpg
   hero_logo_path: /img/logo.png
@@ -106,13 +127,11 @@ site_colors:
   theme_text_color: '#5d9bd3'
   main_body_color: '#ffffff'
   main_body_text_color: '#353535'
-
 header_shadow:
   h_shadow: 0px
   w_shadow: 2px
   shadow_spread: 7px
   shadow_color: black
-
 buttons:
   button_radius_number: 0
   button_padding_width_number: 10
@@ -121,5 +140,5 @@ buttons:
   button_background_color: transparent
   button_text_color: '#123456'
   secondary_button_border_color: '#ffffff'
-  secondary_button_background_color: 'rgba(0, 0, 0, 0)'
+  secondary_button_background_color: rgba(0, 0, 0, 0)
   secondary_button_text_color: '#ffffff'
