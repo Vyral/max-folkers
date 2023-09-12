@@ -13,17 +13,17 @@
 	<p>
 		{{cta.CTA_text3 | replace: '-- MARKET --', site.data.settings.client.market}}
 	</p>
-	<div class="ctacontainer">
-		{% if cta.CTA_link_text3 == null or cta.CTA_url3 == null%}
-		<a class="ctalink" href="{{site.data.settings.CTAs.third_CTA_URL}}" target="_blank">
-			{{site.data.settings.CTAs.third_CTA_text}}
-		</a>
-		{% else %}
-		<a class="ctalink" href="{{cta.CTA_url3}}" target="_blank">
-			{{cta.CTA_link_text3 | replace: '-- MARKET --', site.data.settings.client.market}}
-		</a>
-		{% endif %}
-	</div>
+	<!--<div class="ctacontainer">-->
+	<!--	{% if cta.CTA_link_text3 == null or cta.CTA_url3 == null%}-->
+	<!--	<a class="ctalink" href="{{site.data.settings.CTAs.third_CTA_URL}}" target="_blank">-->
+	<!--		{{site.data.settings.CTAs.third_CTA_text}}-->
+	<!--	</a>-->
+	<!--	{% else %}-->
+	<!--	<a class="ctalink" href="{{cta.CTA_url3}}" target="_blank">-->
+	<!--		{{cta.CTA_link_text3 | replace: '-- MARKET --', site.data.settings.client.market}}-->
+	<!--	</a>-->
+	<!--	{% endif %}-->
+	<!--</div>-->
 </div>
 {% endfor %}
 {% for cta in site.data.settings.sidebar_CTA %}
