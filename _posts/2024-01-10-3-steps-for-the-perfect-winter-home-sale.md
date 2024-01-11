@@ -29,6 +29,6 @@ Conventional wisdom says spring is the best time of year to sell your home. Whil
 
 **{% include pullquote.html %}**
 
-**3\. Let in as much light as possible.** Winter isn’t exactly known for its abundance of natural light, which is why loads of it will make your home really stand out. Open all the windows you can, turn on the lights in places you can’t, and consider using candles to brighten your property up.&nbsp;
+**3\. Let in as much light as possible.** Winter isn’t exactly known for its abundance of natural light, which is why loads of it will make your home really stand out. Open as many windows you can, turn on the lights in places you can’t, and consider using candles to brighten up your property.&nbsp;
 
 It’s possible to get a great deal for your home any time of the year—as long as you know what to do. If you have questions about this topic or anything else, please call or email me. I am always willing to help!
