@@ -1,5 +1,6 @@
 ---
 layout: post
+hidden: true
 title: 3 Steps for the Perfect Winter Home Sale
 date: 2024-01-10 10:00:00
 tags:
