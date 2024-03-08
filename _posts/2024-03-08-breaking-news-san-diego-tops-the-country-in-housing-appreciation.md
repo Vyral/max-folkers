@@ -16,7 +16,7 @@ youtube_code: DIPe-rbwVT0
 ---
 {% include youtube.html %}
 
-Did you hear? San Diego has claimed the top spot for real estate appreciation, according to the Case-Shiller index, a trusted source for real estate reporting nationwide. With an impressive 8.8% year-over-year increase, San Diego leads the pack among the 20 metro areas surveyed.&nbsp;
+Did you hear? San Diego has claimed the top spot for real estate appreciation, according to the Case-Shiller index, a trusted source for real estate reporting nationwide. With an impressive 8.8% year-over-year increase, San Diego leads the pack among the 20 metro areas surveyed.
 
 So, what's behind these soaring prices? **It all boils down to one key factor: low inventory.** January saw the lowest number of home sales since 1988, with just under 1,700 homes changing hands. This isn't due to a lack of buyer interest—it's a direct result of the limited housing supply.
 
