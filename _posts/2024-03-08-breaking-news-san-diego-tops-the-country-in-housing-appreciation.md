@@ -16,10 +16,6 @@ youtube_code: DIPe-rbwVT0
 ---
 {% include youtube.html %}
 
-{% include author-box.html %}
-
-{% include cta-main-box.html %}
-
 *Here’s what you need to know about the state of San Diego’s home values.*
 
 Did you hear? San Diego has claimed the top spot for real estate appreciation, according to the Case-Shiller index, a trusted source for real estate reporting nationwide. With an impressive 8.8% year-over-year increase, San Diego leads the pack among the 20 metro areas surveyed.
