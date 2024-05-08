@@ -36,4 +36,4 @@ This option lets you move into your new home without the hassle of managing show
 * Health issues make it difficult to facilitate the selling process while transitioning to a new home.
 * Your current home needs work or decluttering to maximize its market appeal.
 
-If this sounds like the solution you've been searching for, click here to apply. Simply provide some basic information about yourself and your property, and we'll assess whether this program is a good fit for your situation. If you have any questions, don’t hesitate to call or email us. We look forward to hearing from you.<br>
+If this sounds like the solution you've been searching for, [***click here to apply***](https://www.remaxmax.com/new-contact-me){: target="_blank" rel="noopener"}. Simply provide some basic information about yourself and your property, and we'll assess whether this program is a good fit for your situation. If you have any questions, don’t hesitate to call or email us. We look forward to hearing from you.<br>
