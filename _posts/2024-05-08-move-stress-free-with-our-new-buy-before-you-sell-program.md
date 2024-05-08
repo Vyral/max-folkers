@@ -19,6 +19,8 @@ youtube_code: hQtnmmzzzfE
 ---
 {% include youtube.html %}
 
+{% include excerpt.html %}
+
 Are you caught in the classic buyer's dilemma? You've found your dream home, but you need to sell your current one first. It's a common situation that can make securing your next home feel like a daunting challenge. But we have a fantastic solution that can make this process smoother for you: an innovative program offered by our partner, Home Lite: the Buy Before You Sell program.
 
 **With the Buy Before You Sell program, you can access the equity tied up in your existing home.** This equity can then be used to make a competitive, non-contingent offer on your next home. By eliminating the need to wait for your current home to sell, you gain a significant advantage in today's competitive market. You can also use your unlocked funds for moving costs, closing fees, and any necessary home improvements.
