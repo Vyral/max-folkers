@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Whats Happening in the Real Estate Market This Summer
+title: 'What’s Happening in the Real Estate Market This Summer? '
 date: 2024-07-24 07:00:00
 tags:
   - real estate
