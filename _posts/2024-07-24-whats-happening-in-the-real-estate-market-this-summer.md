@@ -11,7 +11,7 @@ pullquote: Buyers are motivated, but they won’t put up with homes in poor cond
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image:
+youtube_alternate_image: /uploads/real-estate-market-this-summer.jpg
 youtube_code:
 ---
 ![](/uploads/real-estate-market-this-summer-1.jpg){: width="640" height="360"}
