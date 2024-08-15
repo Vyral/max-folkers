@@ -31,5 +31,3 @@ Recently, a lot of sellers have been asking me, “Should I make repairs before 
 **3\. Proper repairs expand your buyer pool.** The condition of your home is the most important factor you can control when selling because it expands your buyer pool. In today’s market, there are fewer buyers due to interest rates and higher home prices; however, you can still attract a lot of demand with a property in good condition. If you do the proper repairs, you’ll have more offers coming in from better-qualified buyers. Work closely with your agent to create a strong marketing strategy, and you might even create a bidding war and naturally drive up your price.
 
 I always recommend sellers do repairs before listing, but it’s more important in this market than it ever has been before. If you’re wondering which repairs are worth doing or want to discuss a pre-listing strategy, just give me a call or send me an email. I’d love to hear from you!
-
-{%include cta-content-box.html%}
