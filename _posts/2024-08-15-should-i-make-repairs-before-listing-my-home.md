@@ -7,16 +7,16 @@ tags:
   - repairs
 excerpt: 'Going over the key reasons it’s worth it to fix your home before selling. '
 enclosure:
-pullquote:
+pullquote: >-
+  Home inspections are often nerve-wracking for sellers, but they don’t have to
+  be if you do repairs before listing
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/home-repair.jpg
-youtube_code: >-
-  Home inspections are often nerve-wracking for sellers, but they don’t have to
-  be if you do repairs before listing.
+youtube_alternate_image: /uploads/home-repair-1.jpg
+youtube_code:
 ---
-![](/uploads/home-repair-1.jpg)
+![](/uploads/home-repair-1.jpg){: width="640" height="360"}
 
 {% include excerpt.html %}
 
@@ -24,7 +24,7 @@ Recently, a lot of sellers have been asking me, “Should I make repairs before 
 
 **1\. Have a pre-listing meeting.** Meet with your agent before you list to go over which repairs are really worth it. Not every fix is worth your hard-earned money, so invest in repairs that will improve your home’s condition and net you a higher return on your investment. It might be worth it to pay for a pre-inspection before you list. This way, you can find exactly what might turn buyers away and fix it before you hit the open market.
 
-{%include pullquote.html%}
+{% include pullquote.html %}
 
 **2\. Choose between cosmetic and high-maintenance repairs.** Most repairs fall into one of two categories: cosmetic repairs and high-maintenance repairs. Cosmetic repairs are usually optional and won’t be a sticking point in negotiations. However, they can net you a higher return on your investment. High-maintenance repairs take longer and require a larger investment, but they often fix major issues that need to be addressed if you want good offers from buyers.
 
