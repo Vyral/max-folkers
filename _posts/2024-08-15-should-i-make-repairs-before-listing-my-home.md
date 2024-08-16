@@ -16,7 +16,7 @@ use_youtube_image: false
 youtube_alternate_image: /uploads/home-repair-1.jpg
 youtube_code:
 ---
-![](/uploads/home-repair-1.jpg){: width="640" height="360"}
+<center> ![](/uploads/home-repair-1.jpg){: width="640" height="360"} </center>
 
 {% include excerpt.html %}
 
