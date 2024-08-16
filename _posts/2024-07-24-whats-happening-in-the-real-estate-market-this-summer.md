@@ -14,7 +14,7 @@ use_youtube_image: false
 youtube_alternate_image: /uploads/real-estate-market-this-summer.jpg
 youtube_code:
 ---
-![](/uploads/real-estate-market-this-summer-1.jpg){: width="640" height="360"}
+![](/uploads/real-estate-market-this-summer-1.jpg){:style="display:block; margin-left:auto; margin-right:auto; width:640px; height:360px;"}
 
 {% include excerpt.html %}
 
