@@ -1,0 +1,45 @@
+<div class="cta-content-box">
+    {% if site.data.settings.blog.CTA_content_box.sync_with_CTAs == true %}
+
+    <ul>
+        <li>
+            <p>
+                <strong>{{ site.data.settings.hero.header }}.</strong> {{ site.data.settings.hero.subheader }}. 
+                <a href="{{ site.data.settings.hero.button_link }}" target="_blank">
+                {{ site.data.settings.hero.button_text }}
+                </a>
+            </p>
+        </li>
+
+        {% for item in site.data.settings.sidebar_CTAs %}
+        <li>
+            <p>
+                <strong>{{ item.title }}.</strong> {{ item.text }}. 
+                <a href="{{ item.url }}" target="_blank">
+                {{ item.button_text }}
+                </a>
+            </p>
+        </li>
+        {% endfor %}
+    </ul>
+
+    {% else %}
+
+    {{ site.data.settings.blog.CTA_content_box.title_markdown | markdownify }}
+
+    <ul>
+        {% for item in site.data.settings.blog.CTA_content_box.items %}
+        <li>
+            <p>
+                {{ item.markdown | markdownify | remove: '<p>' | remove: '</p>' }}
+                <a href="{{ item.url }}" target="_blank">
+                    {{ item.title }}
+                </a>
+            </p>
+        </li>
+        {% endfor %}
+    </ul>
+
+    {% endif %}
+
+</div>

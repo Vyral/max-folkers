@@ -1,0 +1,17 @@
+<div class="author-container">
+    <div class="image">
+        <img src="{{ site.baseurl }}{{ site.data.settings.blog.author.image }}" alt="{{ site.data.settings.blog.author.name }} profile image" />
+    </div>
+
+    <div class="author-info">
+        {% if site.data.settings.blog.author.name_link != null %}
+        <p class="name">By <a href="{{ site.data.settings.blog.author.name_link }}" target="_blank">{{ site.data.settings.blog.author.name }}</a></p>
+        {% else %}
+        <p class="name">By {{ site.data.settings.blog.author.name }}</p>
+        {% endif %}
+
+        <p class="bio">{{ site.data.settings.blog.author.bio }}</p>
+    </div>
+
+
+</div>
