@@ -17,7 +17,7 @@ use_youtube_image: false
 youtube_alternate_image: /uploads/heading-towards-a-buyer-s-market.jpg
 youtube_code:
 ---
-![](/uploads/heading-towards-a-buyer-s-market-1.jpg){: width="1920" height="1080"}
+![](/uploads/heading-towards-a-buyer-s-market-1.jpg){: style="width: 100%; text-align: center;" }
 
 {% include excerpt.html %}
 
