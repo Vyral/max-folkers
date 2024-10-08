@@ -13,10 +13,10 @@ pullquote: >-
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/home-repair-1.jpg
+youtube_alternate_image: /uploads/yt-1.jpg
 youtube_code:
 ---
-![](/uploads/home-repair-1.jpg){:style="display:block; margin-left:auto; margin-right:auto; width:640px; height:360px;"}
+![](/uploads/yt-2.jpg)
 
 {% include excerpt.html %}
 
