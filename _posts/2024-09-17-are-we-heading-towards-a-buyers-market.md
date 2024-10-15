@@ -14,10 +14,10 @@ pullquote: We have good reason to believe the market will shift soon.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/heading-towards-a-buyer-s-market.jpg
+youtube_alternate_image: /uploads/yt-4.jpg
 youtube_code:
 ---
-![](/uploads/heading-towards-a-buyer-s-market-1.jpg){: style="width: 100%; text-align: center;"}
+![](/uploads/yt-4-1.jpg){: width="1280" height="720"}
 
 {% include excerpt.html %}
 
