@@ -17,7 +17,7 @@ use_youtube_image: false
 youtube_alternate_image: /uploads/yt-4.jpg
 youtube_code:
 ---
-![](/uploads/yt-4-1.jpg){: width="1280" height="720"}
+![](/uploads/yt-4-1.jpg){: style="text-align: center; width: 100%;"}
 
 {% include excerpt.html %}
 
