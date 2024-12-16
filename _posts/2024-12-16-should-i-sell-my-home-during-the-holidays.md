@@ -30,4 +30,6 @@ The truth is that most people move when they need to, not when they want to. You
 
 If you want to sell in Q1 next year, please call or email me for a free pre-listing consultation. It always pays to plan ahead, and I’ll go over everything you need to make sure you get the best deal possible. I look forward to hearing from you!
 
+{% include cta-content-box.html %}
+
 <br>
