@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What Is the Best Time of Year To Sell My Home?
-date: 2025-01-22 00:00:00
+date: 2025-01-22 01:00:00
 tags:
   - Real Estate
   - Home Seller Tips
