@@ -5,6 +5,7 @@ date: 2021-10-04 15:00:00
 tags:
   - Real Estate
   - Market Update
+subtitle:
 excerpt: I talk with Derrick Evens about why Bay Park is such a desirable location.
 enclosure: >-
   s3://vyralmarketing/Max Folkers/Videos/2021/Max Folkers on Why Bay Park Is So

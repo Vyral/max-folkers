@@ -5,6 +5,7 @@ date: 2023-11-16 10:00:00
 tags:
   - Home Seller Tips
   - Real Estate
+subtitle:
 excerpt: How homeowners can steer clear of common home-selling mistakes.
 enclosure:
 pullquote: You need to avoid some common pitfalls that can end up costing you dearly.

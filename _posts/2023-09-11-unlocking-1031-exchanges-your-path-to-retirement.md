@@ -4,6 +4,7 @@ title: 'Unlocking 1031 Exchanges: Your Path to Retirement'
 date: 2023-09-11 00:00:00
 tags:
   - Real Estate
+subtitle:
 excerpt: Explore the world of 1031 exchanges with Jason and Max Folkers.
 enclosure:
 pullquote: >-

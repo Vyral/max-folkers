@@ -4,6 +4,7 @@ title: 'Deft Brewing: More Than Just a Normal Brewery'
 date: 2019-07-29 19:36:00
 tags:
   - Real Estate
+subtitle:
 excerpt: >-
   In addition to being a great brewery, Deft Brewing has turned into a thriving
   community meeting spot.

@@ -4,6 +4,7 @@ title: A San Diego Market Preview for the Rest of 2020
 date: 2020-02-13 05:11:00
 tags:
   - Real Estate
+subtitle:
 excerpt: >-
   As we progress through 2020, buyer demand should increase and keep driving
   appreciation.

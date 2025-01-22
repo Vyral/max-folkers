@@ -4,6 +4,7 @@ title:
 date:
 tags:
 subtitle:
+subtitle:
 excerpt:
 enclosure:
 pullquote:

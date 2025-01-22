@@ -1,5 +1,6 @@
 ---
 youtube_code: O-7H7pD7gXs
+subtitle:
 excerpt:
 enclosure: https://s3.amazonaws.com/vyralmarketing/Max+Folkers/Videos/2018/Is+The+Market+Cooling+Down+This+Summer%253F+-+San+Diego+Real+Estate+Agent.mp4
 pullquote: While early signs of a market cool down are appearing, no one can say what exactly the future may hold.

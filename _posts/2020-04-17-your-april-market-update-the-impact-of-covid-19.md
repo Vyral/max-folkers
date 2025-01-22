@@ -3,6 +3,7 @@ layout: post
 title: 'Your April Market Update: The Impact of COVID-19'
 date: 2020-04-17 16:49:50
 tags:
+subtitle:
 excerpt: >-
   There’s a lot of creative solutions we’re employing to get deals done and
   deliver for our clients. Here are the latest numbers from our market and what

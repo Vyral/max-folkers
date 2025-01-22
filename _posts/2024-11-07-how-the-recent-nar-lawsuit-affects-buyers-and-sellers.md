@@ -5,6 +5,7 @@ date: 2024-11-07 07:00:00
 tags:
   - Commission Changes
   - Agent Fees
+subtitle:
 excerpt: Buyers can save money by asking the seller to cover the buyer’s agent fees.
 enclosure:
 pullquote: >-

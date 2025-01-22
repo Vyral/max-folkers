@@ -4,6 +4,7 @@ title: How Urban Growth Is Helping Low-Income Residents Eat Healthy
 date: 2019-06-07 17:22:00
 tags:
   - Real Estate
+subtitle:
 excerpt: >-
   On the latest episode of “The American Dream,” host Molly O’Dell and I are
   joined by Ivan Corona to spotlight the nonprofit Urban Growth.

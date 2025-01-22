@@ -1,5 +1,6 @@
 ---
 youtube_code: RVPy9JnUhZI
+subtitle:
 excerpt:
 enclosure: https://s3.amazonaws.com/vyralmarketing/Max+Folkers/Videos/2018/Join+Us+for+Our+Grand+Opening+-+San+Diego+Real+Estate+Agent.mp4
 pullquote: Join us this Saturday, February 3 from 12:00 p.m. to 4:00 p.m.

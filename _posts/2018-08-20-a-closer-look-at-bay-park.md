@@ -1,5 +1,6 @@
 ---
 youtube_code: uEonQyuQKbY
+subtitle:
 excerpt:
 enclosure:
 pullquote: There has been a changing demographic here over the last decade.

@@ -5,6 +5,7 @@ date: 2021-05-12 00:00:00
 tags:
   - Market Update
   - Real Estate
+subtitle:
 excerpt: Buyer strategies suited for this crazy seller’s market we’re in.
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Max+Folkers/Strategies+As+A+Buyer+To+Get+Your+Offer+Accepted_Market+Update.mp4

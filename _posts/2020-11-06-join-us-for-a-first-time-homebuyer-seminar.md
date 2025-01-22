@@ -3,6 +3,7 @@ layout: post
 title: Join Us for a First-Time Homebuyer Seminar
 date: 2020-11-06 17:41:40
 tags:
+subtitle:
 excerpt:
 enclosure: 'https://vyralmarketing.s3.amazonaws.com/Max+Folkers/Join+Us+For+This+Event.mp4'
 pullquote:

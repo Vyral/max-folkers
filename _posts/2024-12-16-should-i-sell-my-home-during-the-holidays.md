@@ -5,6 +5,7 @@ date: 2024-12-16 00:00:00
 tags:
   - Real Estate
   - Home Seller Tips
+subtitle:
 excerpt: >-
   I explain why it still makes sense to sell your home during the holidays, from
   motivated buyers to lower housing inventory. 

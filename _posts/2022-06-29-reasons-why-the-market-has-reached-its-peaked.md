@@ -5,6 +5,7 @@ date: 2022-06-29 14:20:08
 tags:
   - Real Estate
   - Market Update
+subtitle:
 excerpt: Why the market has reached its peak and what it means for you.
 enclosure:
 pullquote: The market will be better and more balanced.

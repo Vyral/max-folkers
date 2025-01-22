@@ -1,5 +1,6 @@
 ---
 youtube_code: 
+subtitle:
 excerpt:
 enclosure:
 pullquote:
@@ -14,6 +15,7 @@ tags:
   - Market Update
   - Real Estate
   - Home Seller Tips
+subtitle:
 excerpt: 'Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid.'
 enclosure:
 pullquote: This is an example of a pull quote

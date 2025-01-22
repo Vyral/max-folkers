@@ -5,6 +5,7 @@ date: 2021-11-16 00:00:00
 tags:
     - Market Update
     - Real Estate
+subtitle:
 excerpt: Here’s a quick primer on the recently passed Senate bills 9 and 10.
 enclosure: https://vyralmarketing.s3.amazonaws.com/Max+Folkers/Recent+Legislation.mp4
 pullquote: Both SB-9 and SB-10 were made to address the housing shortage.

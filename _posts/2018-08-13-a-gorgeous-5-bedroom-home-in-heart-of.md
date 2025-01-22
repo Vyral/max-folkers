@@ -1,5 +1,6 @@
 ---
 youtube_code: 8qgPRVs8tWk
+subtitle:
 excerpt:
 enclosure: https://s3.amazonaws.com/vyralmarketing/Max+Folkers/Videos/2018/List+It+Live+-+San+Diego+Real+Estate+Agent.mp4
 pullquote: The home has ample space for living and entertaining.

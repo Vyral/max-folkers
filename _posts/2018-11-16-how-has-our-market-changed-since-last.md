@@ -1,5 +1,6 @@
 ---
 youtube_code: CweI9eg42Oc
+subtitle:
 excerpt:
 enclosure: https://s3.amazonaws.com/vyralmarketing/Max+Folkers/Videos/2018/September+Market+Update+-+San+Diego+Real+Estate+Agent.mp4
 pullquote: The key to succeeding in today’s market, regardless of your real estate goals, is to partner with a professional agent who can guide you through current conditions.

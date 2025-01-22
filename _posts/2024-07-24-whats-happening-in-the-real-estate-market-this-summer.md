@@ -5,6 +5,7 @@ date: 2024-07-24 07:00:00
 tags:
   - real estate
   - summer market
+subtitle:
 excerpt: 'Explaining what sellers need to know about the summer housing market. '
 enclosure:
 pullquote: Buyers are motivated, but they won’t put up with homes in poor condition.

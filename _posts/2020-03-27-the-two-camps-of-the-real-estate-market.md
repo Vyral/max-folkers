@@ -3,6 +3,7 @@ layout: post
 title: The Two Camps of the Real Estate Market
 date: 2020-03-27 19:19:26
 tags:
+subtitle:
 excerpt:
 enclosure:
 pullquote:

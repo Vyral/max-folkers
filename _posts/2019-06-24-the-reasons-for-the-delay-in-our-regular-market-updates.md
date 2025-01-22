@@ -4,6 +4,7 @@ title: The Reason(s) for the Delay In Our Regular Market Updates
 date: 2019-06-24 19:45:01
 tags:
   - Real Estate
+subtitle:
 excerpt: >-
   Today I’ve got a few announcements for you: First, I’d like to share the
   latest numbers from our market, then I’ll fill you in on some updates
