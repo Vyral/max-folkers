@@ -18,7 +18,7 @@ use_youtube_image: false
 youtube_alternate_image: /uploads/max-folkers.png
 youtube_code:
 ---
-{% include cta-main-box.html %}
+
 
 As a real estate agent, one of the most common questions I get from potential home sellers is, “When is the best time of year to sell my home?” The truth is that the best time to sell is when you need to move; however, if you’re determined to try and time the market, the best time to sell is when you have the least amount of competition. In most markets, that means selling in late winter or early spring. Once spring hits, inventory increases rapidly, and you’ll have to compete with tons of other homeowners. If you truly want to hit the optimal selling window in late winter or early spring, here are three key things you need to consider:
 
