@@ -1,6 +1,5 @@
 ---
 youtube_code: KKhZl01YKK4
-subtitle:
 excerpt:
 enclosure: https://s3.amazonaws.com/vyralmarketing/Max+Folkers/Videos/2018/We+Have+Some+Exciting+Numbers+In+The+Market+-+San+Diego+Real+Estate+Agent.mp4
 pullquote: It will be interesting to see how our number of homes on the market evolves throughout the rest of the year.

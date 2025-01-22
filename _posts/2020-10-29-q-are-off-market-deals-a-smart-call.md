@@ -3,7 +3,6 @@ layout: post
 title: 'Q: Are Off-Market Deals a Smart Call?'
 date: 2020-10-29 20:39:00
 tags:
-subtitle:
 excerpt: Here’s one of many examples illustrating the danger of off-market sales.
 enclosure: 'https://vyralmarketing.s3.amazonaws.com/Max+Folkers/Off+Market+Sales.mp4'
 pullquote: >-

@@ -3,7 +3,6 @@ layout: post
 title: How Prop 19 Has Changed Real Estate
 date: 2021-03-08 21:23:00
 tags:
-subtitle:
 excerpt: Here’s the good, the bad, and the ugly of the newly passed Proposition 19.
 enclosure: >-
  https://vyralmarketing.s3.amazonaws.com/Max+Folkers/Max_Folkers_Prop19.mp4

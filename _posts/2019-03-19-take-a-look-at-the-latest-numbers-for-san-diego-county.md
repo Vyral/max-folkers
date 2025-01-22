@@ -3,7 +3,6 @@ layout: post
 title: Take a Look at the Latest Numbers for San Diego County
 date: 2019-03-19 21:10:16
 tags:
-subtitle:
 excerpt: >-
   Now that San Diego is getting the sunshine we’ve all been waiting for, let me
   shine some light on how our local real estate market is shaping up in 2019.

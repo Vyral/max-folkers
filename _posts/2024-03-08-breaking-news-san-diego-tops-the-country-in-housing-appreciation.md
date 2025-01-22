@@ -5,7 +5,6 @@ date: 2024-03-08 00:00:00
 tags:
   - Market Update
   - Real Estate
-subtitle:
 excerpt: 'Here’s what you need to know about the state of San Diego’s home values. '
 enclosure:
 pullquote: 'Supply is historically low in our market. '

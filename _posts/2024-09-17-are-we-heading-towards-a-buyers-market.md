@@ -6,7 +6,6 @@ tags:
   - Exercitation
   - Real Estate
   - Buyers market
-subtitle:
 excerpt: >-
   Even though our market is slowing down, I’m explaining why we probably aren’t
   heading for a true buyers market. 

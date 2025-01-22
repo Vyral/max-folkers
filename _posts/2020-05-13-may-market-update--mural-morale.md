@@ -3,7 +3,6 @@ layout: post
 title: May Market Update & Mural Morale
 date: 2020-05-13 17:40:00
 tags:
-subtitle:
 excerpt: 'We’ll help paint a picture of the market, and you can help us paint a mural.'
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Max+Folkers/Videos/2020/What+The+Market+Is+Looking+Like.mp4

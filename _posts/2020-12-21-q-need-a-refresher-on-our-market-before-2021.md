@@ -3,7 +3,6 @@ layout: post
 title: 'Q: Need a Refresher on Our Market Before 2021?'
 date: 2020-12-21 21:23:00
 tags:
-subtitle:
 excerpt: Here’s a summary of San Diego’s interesting year as we brace for 2021.
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Max+Folkers/Videos/2020/Market+Update.mp4

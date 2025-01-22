@@ -5,7 +5,6 @@ date: 2019-09-04 06:58:00
 tags:
   - Real Estate
   - Market Update
-subtitle:
 excerpt: >-
   Fall is here, which means it’s time to update you on what we saw from the San
   Diego real estate market this summer. Here’s what you need to know.

@@ -4,7 +4,6 @@ title: Have You Seen What’s Going on at Our Bay Park Office?
 date: 2019-06-03 20:16:09
 tags:
   - Real Estate
-subtitle:
 excerpt: >-
   Our Bay Park office has many amenities, but none are better than the “man
   cave” that we’ve turned into a community event center. Here’s a better look at

@@ -8,7 +8,6 @@ tags:
   - Home equity access
   - Competitive home buying
   - Simplify home buying process
-subtitle:
 excerpt: 'Don''t let selling fears hold you back from moving into your dream home. '
 enclosure:
 pullquote: Take advantage of this program and make your home-buying journey smoother.

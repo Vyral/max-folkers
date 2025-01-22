@@ -1,6 +1,5 @@
 ---
 youtube_code: J2lcGiykgt0
-subtitle:
 excerpt:
 enclosure:
 pullquote: Relative to the prices we’re seeing in areas like La Jolla, Point Loma, or Pacific Beach, you can find a lot of great deals here.

@@ -5,7 +5,6 @@ date: 2024-08-15 07:00:00
 tags:
   - real estate
   - repairs
-subtitle:
 excerpt: 'Going over the key reasons it’s worth it to fix your home before selling. '
 enclosure:
 pullquote: >-

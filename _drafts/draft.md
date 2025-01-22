@@ -2,7 +2,6 @@
 layout: post
 title: Draft
 tags:
-subtitle:
 excerpt:
 enclosure:
 pullquote:

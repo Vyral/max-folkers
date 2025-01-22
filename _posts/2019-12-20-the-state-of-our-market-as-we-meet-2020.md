@@ -4,7 +4,6 @@ title: The State of Our Market As We Meet 2020
 date: 2019-12-20 18:48:00
 tags:
   - Market Update
-subtitle:
 excerpt: >-
   Our San Diego market is finishing 2019 strong, and exciting things are on the
   horizon for 2020.

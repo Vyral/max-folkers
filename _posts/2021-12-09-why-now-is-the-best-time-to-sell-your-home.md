@@ -5,7 +5,6 @@ date: 2021-12-09 00:00:00
 tags:
   - Home Seller Tips
   - Real Estate
-subtitle:
 excerpt: 'Here’s what you need to know about the state of our fantastic market. '
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Max+Folkers/Why+Now+Is+the+Absolute+Best+Time+To+Sell+A+House.mp4

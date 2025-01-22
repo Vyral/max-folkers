@@ -1,6 +1,5 @@
 ---
 youtube_code: 64ZXV2xtWUE
-subtitle:
 excerpt:
 enclosure:
 pullquote: Pitched by the California Association of Realtors, the exciting thing about Prop 5 coming up in the November elections is that it will change the process of transferring your tax base.

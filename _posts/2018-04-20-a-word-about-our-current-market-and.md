@@ -1,6 +1,5 @@
 ---
 youtube_code: -XumjAAFNxA
-subtitle:
 excerpt:
 enclosure:
 pullquote: It’s buying season in San Diego, and our upcoming seminar will make you a better buyer.

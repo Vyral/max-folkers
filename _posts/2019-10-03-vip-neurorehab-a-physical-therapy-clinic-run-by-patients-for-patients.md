@@ -3,7 +3,6 @@ layout: post
 title: 'VIP NeuroRehab: A Physical Therapy Clinic Run By Patients, for Patients'
 date: 2019-10-03 07:27:00
 tags:
-subtitle:
 excerpt: 'On this episode of “The American Dream,” I’m visiting VIP NeuroRehab.'
 enclosure:
 pullquote: >-

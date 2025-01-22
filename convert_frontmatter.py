@@ -12,8 +12,7 @@ for postfile in dirs:
 		yt = file.read()
 		ytcode = yt.partition('https://img.youtube.com/vi/')[2].partition('"')[0]
 		ytcode = ytcode[:11]
-		newline = yt.replace('---', '---\nyoutube_code: '+ ytcode + '\nsubtitle:
-excerpt:\nenclosure:\npullquote:\nenclosure_type: video/mp4\nenclosure_time:\nuse_youtube_image: true\nyoutube_alternate_image: /img/cover.jpg', 1)
+		newline = yt.replace('---', '---\nyoutube_code: '+ ytcode + '\nexcerpt:\nenclosure:\npullquote:\nenclosure_type: video/mp4\nenclosure_time:\nuse_youtube_image: true\nyoutube_alternate_image: /img/cover.jpg', 1)
 		file = open(post, 'w')
 		file.seek(0)
 		file.write(newline)

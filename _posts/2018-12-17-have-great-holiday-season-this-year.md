@@ -1,6 +1,5 @@
 ---
 youtube_code: 9uBzT6PlSbk
-subtitle:
 excerpt: As I reflect back on the year we’ve had together, I want to thank you for helping make 2018 an incredible year for our real estate team.
 enclosure:
 pullquote:

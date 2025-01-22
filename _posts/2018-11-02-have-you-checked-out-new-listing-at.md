@@ -1,6 +1,5 @@
 ---
 youtube_code: rHB6xyLyFPA
-subtitle:
 excerpt:
 enclosure: https://s3.amazonaws.com/vyralmarketing/Max+Folkers/Videos/2018/New+Property+Available+in+Bay+Park+-+San+Diego+Real+Estate+Agent.mp4
 pullquote: The owners spared no expense in renovating everything.

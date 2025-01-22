@@ -9,7 +9,6 @@ tags:
   - winter home sale
   - sell my home
   - winter
-subtitle:
 excerpt: Here are three easy tips to help you sell your home this winter.
 enclosure:
 pullquote: There are many advantages to selling in the winter.
