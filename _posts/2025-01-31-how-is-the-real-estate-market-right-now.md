@@ -31,4 +31,3 @@ youtube_code:
 **3\. Condition matters.** Right now, there is a large gap between homes that need a little work and homes that are in pristine condition. Good-quality homes still sell quickly and for top dollar; they might even create a bidding war among buyers. On the other hand, homes in need of repairs could sit on the market for a long time. Buyers don’t have a ton of extra cash on hand for repairs after closing, so small investments upfront could make it much easier to sell your house.
 
 These points are broad strokes that are generally true for most markets across the country. However, you should know that real estate is hyper-local. What’s happening in your neighborhood might not be true for your area in general. If you want to learn more about your local market, call or email me for more details. I’d love to share more information with you.
-
