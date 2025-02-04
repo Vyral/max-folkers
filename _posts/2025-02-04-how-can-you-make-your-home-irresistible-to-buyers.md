@@ -20,8 +20,6 @@ use_youtube_image: false
 youtube_alternate_image: /uploads/max-folkers-1-1.png
 youtube_code:
 ---
-{% include cta-main-box.html %}
-
 Looking to sell your house soon but don’t know how to get it ready for the market? Selling your home can feel like a big undertaking, but with the right preparation, you can make it stand out and attract the perfect buyer. These three essential tips will help you get your home ready for a successful sale and leave buyers impressed from the moment they arrive:
 
 **1\. Enhance curb appeal.** First impressions matter, and curb appeal is where it all begins. When potential buyers pull up to your home, the exterior sets the tone for their entire visit. Even small details work together to create an inviting first impression. You don’t need to go all out—simple updates can make a big impact. Mow the lawn, plant some vibrant flowers, or touch up peeling paint on the front door. If it’s winter, keep walkways clear and add cozy seasonal touches like a wreath or warm lighting. The goal is to show buyers that your home is well-loved and ready to welcome its next owner.
