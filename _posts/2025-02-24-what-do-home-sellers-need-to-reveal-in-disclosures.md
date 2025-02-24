@@ -18,8 +18,6 @@ use_youtube_image: false
 youtube_alternate_image: /uploads/max-folkers-2.png
 youtube_code:
 ---
-{% include youtube.html %}
-
 Are you selling your home this year? If so, you’ve probably wondered what exactly you need to disclose to potential buyers. Seller disclosures are more important than ever in 2025, and understanding them is key to avoiding legal headaches and closing deals quickly. Transparency isn’t just a courtesy—it’s a necessity if you want to be legally protected. Here’s a breakdown of what you need to know about seller disclosures to ensure a smooth and successful home sale:
 
 **1\. Material defects.** As a seller, you’re required to disclose any known material defects that could impact your property’s value or safety. This includes issues like foundational cracks, roof leaks, or pest infestations. Even if you’ve repaired these problems, it’s essential to disclose them. Buyers need a full picture of the property’s history so they can make informed decisions. Transparency builds trust with buyers and helps prevent disputes later on. If they discover hidden issues after the sale, it could lead to legal challenges that no one wants.
