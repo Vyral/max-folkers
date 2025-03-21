@@ -31,7 +31,7 @@ Finding a home in Bay Park with over 4,400 square feet of living space on nearly
 
 Outside, the nearly half-acre lot is just as impressive. Finding this much land in Bay Park is extremely rare. The oversized yard offers privacy, potential, and space for outdoor living. Whether you dream of adding a pool, creating a garden oasis, or designing the perfect entertaining space, this lot gives you the freedom to make it your own.
 
-**Why this home stands out**
+**Why this home stands out:**
 
 * Over 4,400 sq. ft. of living space—a rare find in Bay Park
 * Nearly half an acre—plenty of room for outdoor living
