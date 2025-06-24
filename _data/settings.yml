@@ -19,7 +19,7 @@ client:
   name: Max Folkers
   title:
   license_number: 'CA BRE # 01466910'
-  about_markdown: >
+  about_markdown: >-
     There are a lot of great Realtors here in San Diego, but we think we are the
     perfect choice for your real estate needs. Over the last 15 years, I have
     had the opportunity to apply the integrity, attention to detail, and work
@@ -84,7 +84,7 @@ socials:
   review_sm_icons: false
   facebook_url: https://www.facebook.com/SanDiegoRealEstatebyMaxFolkers
   linkedin_url: https://www.linkedin.com/in/maxfolkers
-  youtube_url: https://www.youtube.com/channel/UCDatN5R8NvxmW2DcnCdh4QA
+  youtube_url: https://www.youtube.com/@maxfolkers472
   twitter_url: https://twitter.com/maxfolkers
   instagram_url:
   pinterest_url:
