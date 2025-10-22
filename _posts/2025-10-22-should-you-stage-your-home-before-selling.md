@@ -19,8 +19,6 @@ use_youtube_image: false
 youtube_alternate_image: /uploads/max-folkers-should-you-stage-your-home-before-selling.png
 youtube_code:
 ---
-{% include youtube.html %}
-
 One of the most common questions I hear from homeowners is, *“Should I stage my home before putting it on the market?”* The honest answer? It depends.
 
 In some cases, staging can make a significant difference. In others, thoughtful preparation and presentation can go a long way on their own. The key is knowing when staging is worth the investment and how to do it smartly without overspending.
